@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Soki Kimura | 木村 颯希"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/soki-kimura/
+      - icon: github
+        href: https://github.com/sokimura39
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+

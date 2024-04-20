@@ -1,0 +1,24 @@
+---
+title: "Remote Sensing Learning Diary"
+description: "A learning diary of remote sensing technologies and its applications covered in a master's module at UCL CASA."
+date: 2024-03-23
+categories:
+  - Spatial Analysis
+  - Remote Sensing
+  - CASA
+---
+
+The [Remote Sensing Learning Diary](https://sokimura39.github.io/RemoteSensingDiary/) is an academic project at UCL CASA, as part of the Remote Sensing Cities and Environment module. The learning diary summarises the content of the module, relevant applications, and personal reflections based on the contents. The website was created using [Quarto](https://quarto.org/), with presentations built using the [`Xaringan`](https://github.com/yihui/xaringan) package in R.
+
+::: {layout=[[-1,4,-1,4,-1]] layout-valign="top"}
+
+![A false-color imagery of the Hudson Valley, New York using Sentinel Imagery. The vegetation appears red in this imagery, where infrared is highly reflected.](img/rs_NYC_infrared.png)
+
+![The texture measure of Delhi, India based on Landsat imagery, processed in Google Earth Engine. The highlighted areas have a high difference in neighbouring cells - this case indicating the existence of buildings.](img/rs_texture.png)
+
+:::
+
+-----
+
+A portion of this module was dedicated to creating online portfolios - which was what had motivated me to compiling this website.
+

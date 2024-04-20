@@ -1,0 +1,17 @@
+---
+title: "Projects"
+listing: 
+  - id: projects
+    contents: projects
+    type: grid
+    fields: ['image', 'title', 'description', 'date', 'categories']
+    sort: "date desc"
+    sort-ui: [date, title]
+    categories: true
+    filter-ui: true
+---
+
+Here, you can find my projects that I have worked on recently.
+
+:::{#projects}
+:::

@@ -1,0 +1,36 @@
+---
+title: "CUSP Data Dive 2024"
+description: "Group project at a spatial data science hackathon, exploring road safety and cycling infrastructure."
+date: 2024-02-23
+categories:
+  - Spatial Analysis
+  - Hackathon
+  - Cycling
+---
+
+![Plot showing the relationship of difference in serious road casualties by London borough. Blue- and red-bordered boroughs represent case studies of well-performing and need-improvement boroughs from the perspective of cycling infrastructure.](https://raw.githubusercontent.com/sokimura39/CUSP_Data_Dive/main/plots/casualty_difference.png)
+
+## Overview of Project
+
+The [CUSP London Data Dive 2024](https://github.com/cusp-london/data-dive-2024) was a 4-day hackathon hosted by the [Centre for Urban Science and Progress](https://cusplondon.ac.uk/) exploring the fields of transport, safety, air quality, and health. 
+
+The group project investigated the relationship between cycling infrastructure investments and road casualities. Explored datasets include [TfL Cycling Data](https://cycling.data.tfl.gov.uk/) - especially active travel counts and cycling infrastructure, and [road collision data](https://tfl.gov.uk/corporate/publications-and-reports/road-safety) also available from TfL. 
+
+![Density of cycling casualties compared to the number of active travel counts (cyclist counts). Darker boroughs indicate there is a relatively higher probability of cycling casualties for cyclists, indicating room for improvement in terms of cyclist safety.](https://raw.githubusercontent.com/sokimura39/CUSP_Data_Dive/main/plots/cycle_casualties_per_traffic.png){width=50%}
+
+Although a direct correlation could not be drawn, a case-study based narrative indicates investment on cycling infrastructure may have positive impact in improving cycling safety. Limitations lie in the availability of data, especially the temporal data on infrastructure implementation.
+
+The code and analysis outcomes are available on [GitHub](https://github.com/sokimura39/CUSP_Data_Dive)
+
+## Group Members
+
+This was a joint project by students from King's College London, the University of Glasgow, and UCL.
+
+**CUSP London Data Dive Group**
+
+- Albright Besung
+- Amandeep Singh
+- Hardik Sangwan
+- Laura Gamba R.
+- Manuella C. de Paulo
+- Soki Kimura

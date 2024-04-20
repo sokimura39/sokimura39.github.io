@@ -1,0 +1,62 @@
+---
+title: "Soki Kimura"
+subtitle: "Urban Planner / Designer"
+image: img/soki_kimura.jpg
+toc: false
+about:
+  id: about
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/sokimura39
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/soki-kimura/
+---
+
+:::{#about}
+
+## Welcome!
+
+Soki Kimura is an urban planner / designer with experience in the public sector in the field of civil engineering and intenrnational policy-making regarding the built environment. Passionate about urban planning and design and spatial data analysis.
+
+Check out my [recent projects](projects.qmd) for more information.
+
+:::
+
+## Resume
+
+### Skills
+
+- Spatial Data Science: R / Python / SQL / QGIS
+- Graphic Design: Adobe CC [Illustrator, InDesign] / Blender
+- Languages: Japanese [Native] / English [Fluent]
+
+### Qualifications
+
+- 2nd Class Architect / Building Planner of Japan [二級建築士]
+- Qualified for Associate Professional Engineer of Japan (Construction Division) [技術士一次試験合格（建設部門）]
+
+### Experience
+
+#### Ministry of Land, Infrastructure, Transport and Tourism of Japan
+
+Tokyo / Osaka / Nara, Japan | 2019 - 2023
+
+Experience in civil engineering projects (river and road works) and policy-making for international infrastructure development.
+
+### Education
+
+#### University College London
+
+London, UK | 2023 - 
+
+MSc Urban Spatial Science | The Bartlett Centre for Advanced Spatial Analysis
+
+#### The University of Tokyo
+
+Tokyo, Japan | 2015 - 2019
+
+Bachelor of Engineering | Urban Planning Course, Department of Urban Engineering
+

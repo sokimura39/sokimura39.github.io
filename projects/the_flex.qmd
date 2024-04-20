@@ -1,0 +1,68 @@
+---
+title: "The FLEX - AA DLAB 2023"
+description: "A group project in a short programme designing and prototyping a pavilion from rattan canes."
+date: 2023-09-17
+categories:
+  - Architecture
+---
+
+![Detailed view of the completed structure.](img/the_flex.jpg)
+
+## Overview of Project
+
+The FLEX is a pavilion made of rattan canes making use of active bending techiniques. Parametric design methodologies were implemented in the designing stage using Grasshopper on Rhinoceros. 
+
+This work was a collaborative project as a student at the AA DLAB 2023 in September 2023. The [AA DLAB](https://dlab.aaschool.ac.uk/) summer school at the [AA School(Architectural Association School of Architecture)](https://www.aaschool.ac.uk/) is a 2-week summer programme that experiments with the integration of advanced computational design, analysis, and large-scale prototyping.
+
+![The completed structure of the FLEX. Rattan canes in bundles of 7 are used as the primary structure - these were bundled together using industrial robotic arms.](img/the_flex_overview.jpg){width=50%}
+
+## Prototyping
+
+Aside from the cooperative work on building the prototype based on the decided design, my major contribution was the co-designing of the 'foot' - 3D printed attachments to the bottom of the structure, stablising them onto the ground. The physical allocation of connecting beams required consideration.
+
+::: {layout=[[4,5,5]] layout-valign="top"}
+
+![Prototype of foot accommodating connecting beams.](img/the_flex/the_flex_foot_prototype.jpg)
+
+![Render of foot. The foot was 3D-printed using this model](img/the_flex/the_flex_foot_render.png)
+
+![Foot in use, filled with sand for weight.](img/the_flex/the_flex_foot.jpg)
+
+:::
+
+## Design Proposals
+
+Students were required to create a design proposal in a small group. Our proposal was **The Elephant** (co-designed with Yusuf Alperen Bayir and Sudaksh Nigotiya), an arch-shaped structure using helical modules. The circle is one geometry that self-stabilises under active-bending conditions, which we have utilised as the main structure.
+
+::: {layout-ncol=3 layout-valign="top"}
+
+![Structural analysis of prototype using Karamba3D on Grasshopper. Dark colors indicate higher stress.](img/the_flex/the_flex_proposal_karamba.jpg)
+
+![Scale model of proposed model. Variations in cane density was experimented using a small-scale model.](img/the_flex/the_flex_prototype.jpg)
+
+![1:1 scale model of one helix module. Construction was to be created by stacking the minimal modules on top of each other.](img/the_flex/the_flex_prototype2.jpg)
+
+:::
+
+
+---
+
+## Contributors
+
+> **The FLEX**
+> DLAB 2023 Structure
+>
+> **Programme Heads**  
+> Dr. Elif Erdine, Dr. Milad Showkatbakhsh
+>
+> **AA Visiting School Director**
+> Dr. Christopher Pierce
+>
+> **Tutors** 
+> Elif Erdine, Alexander Krolak, Angel Lara Moreira, Milad Showkatbakhsh
+> 
+> **Teaching Assistant** 
+> Chengxuan Li
+> 
+> **Students** 
+> Laya Al Ibadi, Aeshah Alani, Yusuf Alperen Bayir, Rim Cherkaoui, Heloisa de Santis Alfredo, Ahmed Gewaily, Jiyeong Kim, Soki Kimura, Anna Kloos, Amalia Konstantinou, Luis Leon Escoda, Samanta Martinez, Ahmed Mitwally, Netra Mundada, Sudaksh Nigotiya, Zahra Parhizi, Yiru Wang, Hanqi Zhang

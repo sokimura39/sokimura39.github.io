@@ -1,0 +1,66 @@
+---
+title: "30-Day Map Challenge 2023"
+description: "My contribution to the #30DayMapChallenge 2023, creating maps for every day in November."
+date: 2023-11-30
+categories:
+  - Spatial Analysis
+  - Data Visualisation
+---
+
+![The maps created for the #30DayMapChallenge 2023](https://raw.githubusercontent.com/sokimura39/30DayMapChallenge/master/Maps/Maps_Gallery.png)
+
+## Overview of Project
+
+The [#30DayMapChallenge](https://30daymapchallenge.com/) is a daily mapmaking challenge that involves creating maps every day in November, with themes assigned for every day.
+
+In 2023 I have created all 30 maps in 30 days, with the majority using R (mainly the packages in `tidyverse` - especially `ggplot2`, `sf`, `terra`, and some `rayshader`).
+
+## Gallery
+
+For maps generated programatically, the code to generate are available on the [GitHub repository](https://github.com/sokimura39/30DayMapChallenge).
+
+```{r echo=FALSE}
+
+library(pixture)
+
+# create paths
+days <- seq(1, 30)
+paths <- paste0('https://raw.githubusercontent.com/sokimura39/30DayMapChallenge/master/Maps/Day', formatC(days, width = 2, flag = '0'), '.png')
+
+# captions
+captions <- c(
+  "Day 1 - Points: Santander Docking Stations in London",
+  "Day 2 - Lines: Bus Routes in Greater London",
+  "Day 3 - Polygons: Green Belts in England",
+  "Day 4 - A Bad Map: Tourist Spots in London Made Up by ChatGPT",
+  "Day 5 - Analog Map: A Mental Map of London",
+  "Day 6 - Asia: The 50 Busiest Airports in Asia",
+  "Day 7 - Navigation: A Cycle Navigation Map of London",
+  "Day 8 - Africa: African Cities",
+  "Day 9 - Hexagons: AirBNBs in London",
+  "Day 10 - North America: Direction of Traffic in Manhattan, NY",
+  "Day 11 - Retro: Bus Routes in Greater London - Retro Version",
+  "Day 12 - South America: Precipitation in South America",
+  "Day 13 - Choropleth: Precipitation, Disaster and GDP",
+  "Day 14 - Europe: Fires in London Boroughs in 2022",
+  "Day 15 - OpenStreetMap: Clusters of Surveillance Cameras in London",
+  "Day 16 - Oceania: Average Annual Temperature in Australia",
+  "Day 17 - Flow: The Flow of Santander Cycles",
+  "Day 18 - Atmosphere: The Temperature Annual Range",
+  "Day 19 - 5-Minute Map: Transport Network in London",
+  "Day 20 - Outdoors: The Height of Outdoors in Bristol",
+  "Day 21 - Raster: The Forest Coverage of the World",
+  "Day 22 - North is not Always Up - The World Projected to the British National Grid",
+  "Day 23 - 3D: Volume Restrictions in Osaka, Japan",
+  "Day 24 - Black and White: Black and White Places in Japan",
+  "Day 25 - Antarctica: Monuments in Antarctica",
+  "Day 26 - Minimal: London",
+  "Day 27 - Dots: Number of Points of Interest",
+  "Day 28 - Is this a Chart or a Map?: Elevations of Capital Cities in the World",
+  "Day 29 - Population: Population Density of the British Isles",
+  "Day 30 - My Favorite: The Flow of Santander Cycles by Zone"
+)
+
+pixgallery(paths, captions, dim = "200px", type = "grid")
+
+```
