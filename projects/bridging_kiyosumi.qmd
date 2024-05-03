@@ -1,0 +1,37 @@
+---
+title: "Bridging the River, Green, and Culture"
+description: "Undergraduate design project of a mixed-use neighbourhood in Kiyosumi, Tokyo, Japan."
+date: 2016-12-20
+image: img/kiyosumi/kiyosumi.JPG
+categories:
+  - Architecture
+  - Planning
+---
+
+## Overview
+
+This project is a proposal of a mixed-use development composed of residential units and an art museum, as a counter-proposal to the ongoing plan of high-rise residential apartment. It aims to bridge this culturally rich hinterland with the blue space of Sumida River, which is currently separated by concrete flood protection.
+
+The site is located in the Kiyosumi area in east Tokyo by the Sumida River, adjacent to the designated cultural property of Kiyosu Bridge. This area is filled with cultural heritage including modern and traditional art museums, historic sites, and the Kiyosumi Garden, a Japanese garden located next to the site.
+
+## Site Design Proposal
+
+I proposed 3 interconnected areas for the site, each focusing on engagement with the local environment.
+
+![Overall site design. The area is split into the Riverside Area (Blue) that aims to interact with the Sumida River, Kiyosu Bridge Area (Yellow) drawing attention from passers-by, and the Park Area (Green) extending the green corridor from Kiyosu Park.](img/kiyosumi/overall_plan.png){width="70%"}
+
+Two main vistas are created: within the riverside area (at the top) and the Kiyosu Bridge are (from bottom-right to top-centre).
+
+The Riverside Area was chosen for detailed planning, shown below. The raised deck seamlessly connects the river with the hinterland, overpassing the flood protection. This also covers the parking area, leaving more open space for the residents.
+
+![Detailed standard floor plan at the deck level.](img/kiyosumi/specific_plan.png)
+
+## Gallery
+
+Two models were created for the assignment, one for the overall design in 1:500 scale, and one for the detailed design in 1:200 scale.
+
+![Imagery of model for overall design. The left 2 pictures show the vistas, and on the right the final design is shown.](img/kiyosumi/gallery_overall.png)
+
+
+![Imagery of model for specific design. Overview of whole model (top), main vista (mid-left), decked plaza (mid-right), view from the river (bottom-left), and the green river view (bottom-right).](img/kiyosumi/gallery_detail.png)
+

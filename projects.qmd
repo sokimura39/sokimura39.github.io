@@ -11,7 +11,7 @@ listing:
     filter-ui: true
 ---
 
-Here, you can find my projects that I have worked on recently.
+Here, you can find my projects that I have worked on recently and in the past.
 
 :::{#projects}
 :::

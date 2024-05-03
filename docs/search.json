@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here, you can find my projects that I have worked on recently.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nRemote Sensing Learning Diary\n\n\n\nSpatial Analysis\n\n\nRemote Sensing\n\n\nCASA\n\n\n\nA learning diary of remote sensing technologies and its applications covered in a master’s module at UCL CASA.\n\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCUSP Data Dive 2024\n\n\n\nSpatial Analysis\n\n\nHackathon\n\n\nCycling\n\n\n\nGroup project at a spatial data science hackathon, exploring road safety and cycling infrastructure.\n\n\n\nFeb 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n30-Day Map Challenge 2023\n\n\n\nSpatial Analysis\n\n\nData Visualisation\n\n\n\nMy contribution to the #30DayMapChallenge 2023, creating maps for every day in November.\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nThe FLEX - AA DLAB 2023\n\n\n\nArchitecture\n\n\n\nA group project in a short programme designing and prototyping a pavilion from rattan canes.\n\n\n\nSep 17, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here, you can find my projects that I have worked on recently and in the past.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nRemote Sensing Learning Diary\n\n\n\nSpatial Analysis\n\n\nRemote Sensing\n\n\nCASA\n\n\n\nA learning diary of remote sensing technologies and its applications covered in a master’s module at UCL CASA.\n\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCUSP Data Dive 2024\n\n\n\nSpatial Analysis\n\n\nHackathon\n\n\nCycling\n\n\n\nGroup project at a spatial data science hackathon, exploring road safety and cycling infrastructure.\n\n\n\nFeb 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n30-Day Map Challenge 2023\n\n\n\nSpatial Analysis\n\n\nData Visualisation\n\n\n\nMy contribution to the #30DayMapChallenge 2023, creating maps for every day in November.\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nThe FLEX - AA DLAB 2023\n\n\n\nArchitecture\n\n\n\nA group project in a short programme designing and prototyping a pavilion from rattan canes.\n\n\n\nSep 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCumulative Environmental Impact Research\n\n\n\nPlanning\n\n\nResearch\n\n\n\nUndergraduate research dissertation project exploring the impact of clustered high-rise residential buildings.\n\n\n\nJun 6, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridging the River, Green, and Culture\n\n\n\nArchitecture\n\n\nPlanning\n\n\n\nUndergraduate design project of a mixed-use neighbourhood in Kiyosumi, Tokyo, Japan.\n\n\n\nDec 20, 2016\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -117,5 +117,61 @@
     "title": "CUSP Data Dive 2024",
     "section": "Group Members",
     "text": "Group Members\nThis was a joint project by students from King’s College London, the University of Glasgow, and UCL.\nCUSP London Data Dive Group\n\nAlbright Besung\nAmandeep Singh\nHardik Sangwan\nLaura Gamba R.\nManuella C. de Paulo\nSoki Kimura"
+  },
+  {
+    "objectID": "projects/cumulative_eia.html",
+    "href": "projects/cumulative_eia.html",
+    "title": "Cumulative Environmental Impact Research",
+    "section": "",
+    "text": "The Musashi-Kosugi district located in suburban Tokyo has seen rapid construction of high-rise residential buildings, resulting in cumulative impacts of multiple development causing issues including exceeding infrastructure capacity and right to light impacts. The environmental impact assessment (EIA) focusing on individual developments have the potential to underestimate impacts for clustered buildings. This report assessed the environmental impacts for the following issues, all of which are ongrowing issues in the current Musashi-Kosugi area.\n\naccess to sunlight\noverpopulation of public education facilities\ncongestion of public transport\nimpact to the skyline\n\n\n\n\nMap of high-rise developments in the Musashi-Kosugi area, showing multiple skyscrapers are built and are planned."
+  },
+  {
+    "objectID": "projects/cumulative_eia.html#overview",
+    "href": "projects/cumulative_eia.html#overview",
+    "title": "Cumulative Environmental Impact Research",
+    "section": "",
+    "text": "The Musashi-Kosugi district located in suburban Tokyo has seen rapid construction of high-rise residential buildings, resulting in cumulative impacts of multiple development causing issues including exceeding infrastructure capacity and right to light impacts. The environmental impact assessment (EIA) focusing on individual developments have the potential to underestimate impacts for clustered buildings. This report assessed the environmental impacts for the following issues, all of which are ongrowing issues in the current Musashi-Kosugi area.\n\naccess to sunlight\noverpopulation of public education facilities\ncongestion of public transport\nimpact to the skyline\n\n\n\n\nMap of high-rise developments in the Musashi-Kosugi area, showing multiple skyscrapers are built and are planned."
+  },
+  {
+    "objectID": "projects/cumulative_eia.html#key-results",
+    "href": "projects/cumulative_eia.html#key-results",
+    "title": "Cumulative Environmental Impact Research",
+    "section": "Key Results",
+    "text": "Key Results\n\nDifference in Individual and Cumulative Impacts\nThe research has discovered the individual EIAs have failed to acknowledge the cumulative impact of multiple developments.\nThe impact on shadows were the most clearly illustrated - as shown below.\n\n\n\nDifference between the shadows cast by individual buildings and the cumulative shadows. Even if the shadows from one building affects an area for a small amount of time, having multiple buildings blocking sunlight leads to having the majority of the day without access to sunlight.\n\n\nOther interesting results included the change in the perception of the transforming skyline, with a new high-rise development being described as a ‘symbolic structure’ in early stages, but later changed into ‘subtle change’ that fits within the given surroundings with multiple high-rises.\n\n\nEngagement from EIAs\nThe engagement from individual development-based EIAs have a spectrum of consideration toward cumulative impacts, depending on the subject. There were issues that were not considered at all (i.e. impact on public transport), issues that had only been considered on an individual basis (right to light, change in skyline) to issues with mitigating measures conducted by the EIA (impact of wind). Not all issues have been considered in the EIA, and some are only considered in an individual scale."
+  },
+  {
+    "objectID": "projects/cumulative_eia.html#publication",
+    "href": "projects/cumulative_eia.html#publication",
+    "title": "Cumulative Environmental Impact Research",
+    "section": "Publication",
+    "text": "Publication\nReported on the Reports of the City Planning Institute of Japan (available in Japanese only) and can be accessible from J-Stage\nCite as:\nJapanese\n木村 颯希、真鍋 陸太郎、村山 顕人(2019), 「超高層建築物の群化による複合的環境影響に関する研究　ー武蔵小杉駅周辺市街地を対象にー」, 「日本都市計画学会 都市計画報告集」 No. 18, May 2019, pp.87-91\nEnglish\nKimura, S., Manabe, R., and Murayama, A. (2019) ‘A Study on the Cumulative Environmental Impacts of the Clustered High- Rise Buildings: A Case Study of Musashi-Kosugi, Kawasaki’, Reports of the City Planning Institute of Japan, 18 (May 2019), pp.87-91"
+  },
+  {
+    "objectID": "projects/bridging_kiyosumi.html",
+    "href": "projects/bridging_kiyosumi.html",
+    "title": "Bridging the River, Green, and Culture",
+    "section": "",
+    "text": "This project is a proposal of a mixed-use development composed of residential units and an art museum, as a counter-proposal to the ongoing plan of high-rise residential apartment. It aims to bridge this culturally rich hinterland with the blue space of Sumida River, which is currently separated by concrete flood protection.\nThe site is located in the Kiyosumi area in east Tokyo by the Sumida River, adjacent to the designated cultural property of Kiyosu Bridge. This area is filled with cultural heritage including modern and traditional art museums, historic sites, and the Kiyosumi Garden, a Japanese garden located next to the site."
+  },
+  {
+    "objectID": "projects/bridging_kiyosumi.html#overview",
+    "href": "projects/bridging_kiyosumi.html#overview",
+    "title": "Bridging the River, Green, and Culture",
+    "section": "",
+    "text": "This project is a proposal of a mixed-use development composed of residential units and an art museum, as a counter-proposal to the ongoing plan of high-rise residential apartment. It aims to bridge this culturally rich hinterland with the blue space of Sumida River, which is currently separated by concrete flood protection.\nThe site is located in the Kiyosumi area in east Tokyo by the Sumida River, adjacent to the designated cultural property of Kiyosu Bridge. This area is filled with cultural heritage including modern and traditional art museums, historic sites, and the Kiyosumi Garden, a Japanese garden located next to the site."
+  },
+  {
+    "objectID": "projects/bridging_kiyosumi.html#site-design-proposal",
+    "href": "projects/bridging_kiyosumi.html#site-design-proposal",
+    "title": "Bridging the River, Green, and Culture",
+    "section": "Site Design Proposal",
+    "text": "Site Design Proposal\nI proposed 3 interconnected areas for the site, each focusing on engagement with the local environment.\n\n\n\nOverall site design. The area is split into the Riverside Area (Blue) that aims to interact with the Sumida River, Kiyosu Bridge Area (Yellow) drawing attention from passers-by, and the Park Area (Green) extending the green corridor from Kiyosu Park.\n\n\nTwo main vistas are created: within the riverside area (at the top) and the Kiyosu Bridge are (from bottom-right to top-centre).\nThe Riverside Area was chosen for detailed planning, shown below. The raised deck seamlessly connects the river with the hinterland, overpassing the flood protection. This also covers the parking area, leaving more open space for the residents.\n\n\n\nDetailed standard floor plan at the deck level."
+  },
+  {
+    "objectID": "projects/bridging_kiyosumi.html#gallery",
+    "href": "projects/bridging_kiyosumi.html#gallery",
+    "title": "Bridging the River, Green, and Culture",
+    "section": "Gallery",
+    "text": "Gallery\nTwo models were created for the assignment, one for the overall design in 1:500 scale, and one for the detailed design in 1:200 scale.\n\n\n\nImagery of model for overall design. The left 2 pictures show the vistas, and on the right the final design is shown.\n\n\n\n\n\nImagery of model for specific design. Overview of whole model (top), main vista (mid-left), decked plaza (mid-right), view from the river (bottom-left), and the green river view (bottom-right)."
   }
 ]

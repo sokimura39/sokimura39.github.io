@@ -4,7 +4,7 @@ description: "My contribution to the #30DayMapChallenge 2023, creating maps for 
 date: 2023-11-30
 categories:
   - Spatial Analysis
-  - Data Visualisation
+  - Graphic Design
 ---
 
 ![The maps created for the #30DayMapChallenge 2023](https://raw.githubusercontent.com/sokimura39/30DayMapChallenge/master/Maps/Maps_Gallery.png)
