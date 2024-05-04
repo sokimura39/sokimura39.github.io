@@ -1,5 +1,5 @@
 ---
-title: "Graphic Design for Campus Festival"
+title: "Graphic Design for Campus Festivals"
 description: "Directing the overall graphic design and public relations at campus festivals at the University of Tokyo."
 image: "img/campus_fest/mf91logo.png"
 date: 2018-05-20
