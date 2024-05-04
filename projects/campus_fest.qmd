@@ -24,14 +24,14 @@ library(pixture)
 
 paths <- c(
   "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/kf67theme.png",
-  "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/kf67poster.png",
-  "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/kf67pamphlet.PNG",
+  "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/kf67_poster.png",
+  "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/kf67pamphlet.JPG",
   "https://pbs.twimg.com/media/CidVF0lUoAAh88m?format=jpg&name=small",
   "https://pbs.twimg.com/media/C_1T585UMAAuAZB?format=png&name=900x900",
   "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/mf91logo.png",
   "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/mf91logo2.png",
-  "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/mf91_print.png",
-  "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/corporate_logo.png"
+  "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/mf91_print.JPG",
+  "https://raw.githubusercontent.com/sokimura39/sokimura39.github.io/main/projects/img/campus_fest/corporate_logo.jpg"
 )
 
 # captions
