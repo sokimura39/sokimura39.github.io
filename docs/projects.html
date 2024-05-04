@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
@@ -119,6 +119,10 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./about.html" rel="" target="">
+ <span class="menu-text">Resume</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="./projects.html" rel="" target="" aria-current="page">
  <span class="menu-text">Projects</span></a>
   </li>  
@@ -137,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Architecture">Architecture <span class="quarto-category-count">(2)</span></div><div class="category" data-category="CASA">CASA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Cycling">Cycling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Data Visualisation">Data Visualisation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Hackathon">Hackathon <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Planning">Planning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Remote Sensing">Remote Sensing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Research">Research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Spatial Analysis">Spatial Analysis <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Architecture">Architecture <span class="quarto-category-count">(2)</span></div><div class="category" data-category="CASA">CASA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Cycling">Cycling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Graphic Design">Graphic Design <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Hackathon">Hackathon <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Planning">Planning <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Remote Sensing">Remote Sensing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Research">Research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Spatial Analysis">Spatial Analysis <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -202,9 +206,6 @@ Remote Sensing
 CASA
 </div>
 </div>
-<div class="card-text listing-description">
-A learning diary of remote sensing technologies and its applications covered in a master’s module at UCL CASA.
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Mar 23, 2024
@@ -233,9 +234,6 @@ Hackathon
 Cycling
 </div>
 </div>
-<div class="card-text listing-description">
-Group project at a spatial data science hackathon, exploring road safety and cycling infrastructure.
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Feb 23, 2024
@@ -245,7 +243,7 @@ Feb 23, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Spatial Analysis,Data Visualisation" data-listing-date-sort="1701302400000" data-listing-file-modified-sort="1713480594293" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="2" data-categories="Spatial Analysis,Graphic Design" data-listing-date-sort="1701302400000" data-listing-file-modified-sort="1714746126245" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./projects/30DayMapChallenge2023.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="https://raw.githubusercontent.com/sokimura39/30DayMapChallenge/master/Maps/Maps_Gallery.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -257,12 +255,9 @@ Feb 23, 2024
 <div class="listing-category" onclick="window.quartoListingCategory('Spatial Analysis'); return false;">
 Spatial Analysis
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Data Visualisation'); return false;">
-Data Visualisation
+<div class="listing-category" onclick="window.quartoListingCategory('Graphic Design'); return false;">
+Graphic Design
 </div>
-</div>
-<div class="card-text listing-description">
-My contribution to the #30DayMapChallenge 2023, creating maps for every day in November.
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -286,9 +281,6 @@ The FLEX - AA DLAB 2023
 Architecture
 </div>
 </div>
-<div class="card-text listing-description">
-A group project in a short programme designing and prototyping a pavilion from rattan canes.
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Sep 17, 2023
@@ -298,10 +290,12 @@ Sep 17, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="Planning,Research" data-listing-date-sort="1559775600000" data-listing-file-modified-sort="1714741587087" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="4" data-categories="Planning,Research" data-listing-date-sort="1559775600000" data-listing-file-modified-sort="1714816504169" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./projects/cumulative_eia.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="projects\img\kosugi\kosugi_map.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top">
+<img src="./projects/img/kosugi/shadow_map.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Cumulative Environmental Impact Research
@@ -314,9 +308,6 @@ Planning
 Research
 </div>
 </div>
-<div class="card-text listing-description">
-Undergraduate research dissertation project exploring the impact of clustered high-rise residential buildings.
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jun 6, 2019
@@ -326,7 +317,34 @@ Jun 6, 2019
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="Architecture,Planning" data-listing-date-sort="1482192000000" data-listing-file-modified-sort="1714746028677" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="5" data-categories="Graphic Design,Planning" data-listing-date-sort="1526770800000" data-listing-file-modified-sort="1714823990139" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./projects/campus_fest.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/img/campus_fest/mf91logo.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Graphic Design for Campus Festival
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Graphic Design'); return false;">
+Graphic Design
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Planning'); return false;">
+Planning
+</div>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 20, 2018
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Architecture,Planning" data-listing-date-sort="1482192000000" data-listing-file-modified-sort="1714746028677" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./projects/bridging_kiyosumi.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -343,9 +361,6 @@ Architecture
 <div class="listing-category" onclick="window.quartoListingCategory('Planning'); return false;">
 Planning
 </div>
-</div>
-<div class="card-text listing-description">
-Undergraduate design project of a mixed-use neighbourhood in Kiyosumi, Tokyo, Japan.
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">

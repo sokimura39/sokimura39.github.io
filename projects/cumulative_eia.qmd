@@ -1,6 +1,7 @@
 ---
 title: "Cumulative Environmental Impact Research"
 description: "Undergraduate research dissertation project exploring the impact of clustered high-rise residential buildings."
+image: img/kosugi/shadow_map.png
 date: 2019-06-06
 categories:
   - Planning

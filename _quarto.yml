@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: Resume
       - projects.qmd
     tools:
       - icon: linkedin

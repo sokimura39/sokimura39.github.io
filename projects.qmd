@@ -4,7 +4,7 @@ listing:
   - id: projects
     contents: projects
     type: grid
-    fields: ['image', 'title', 'description', 'date', 'categories']
+    fields: ['image', 'title', 'date', 'categories']
     sort: "date desc"
     sort-ui: [date, title]
     categories: true
