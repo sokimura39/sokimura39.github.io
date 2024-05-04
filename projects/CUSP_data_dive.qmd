@@ -5,7 +5,6 @@ date: 2024-02-23
 categories:
   - Spatial Analysis
   - Hackathon
-  - Cycling
 ---
 
 ![Plot showing the relationship of difference in serious road casualties by London borough. Blue- and red-bordered boroughs represent case studies of well-performing and need-improvement boroughs from the perspective of cycling infrastructure.](https://raw.githubusercontent.com/sokimura39/CUSP_Data_Dive/main/plots/casualty_difference.png)
