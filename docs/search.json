@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "Soki Kimura",
     "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\n\nI am a planner passionate about planning, urban data, and design.\nClick below to explore my projects and about myself.\nResume Projects"
+    "text": "I am a planner passionate about planning, urban data, and design.\nClick below to explore my projects and about myself.\nResume Projects"
   },
   {
     "objectID": "index.html#welcome",
@@ -88,7 +88,7 @@
     "href": "about.html",
     "title": "Soki Kimura",
     "section": "",
-    "text": "Soki Kimura is an urban planner / designer with experience in the public sector in the field of civil engineering and international policy-making regarding the built environment. Passionate about urban planning and design and spatial data analysis."
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n\n      \nSoki Kimura is an urban planner / designer with experience in the public sector in the field of civil engineering and international policy-making regarding the built environment. Passionate about urban planning and design and spatial data analysis."
   },
   {
     "objectID": "about.html#skills",
@@ -116,7 +116,7 @@
     "href": "about.html#education",
     "title": "Soki Kimura",
     "section": "Education",
-    "text": "Education\n\nUniversity College London\nLondon, UK | 2023 -\nMSc Urban Spatial Science | The Bartlett Centre for Advanced Spatial Analysis\n\n\nThe University of Tokyo\nTokyo, Japan | 2015 - 2019\nBachelor of Engineering | Urban Planning Course, Department of Urban Engineering"
+    "text": "Education\n\nUniversity College London\nLondon, UK | 2023 -\nMSc Urban Spatial Science | The Bartlett Centre for Advanced Spatial Analysis\nCurrently en route to completing a master’s degree on urban spatial science, covering the fields of urban data analysis, network science, GIS, and remote sensing.\n\n\nThe University of Tokyo\nTokyo, Japan | 2015 - 2019\nBachelor of Engineering | Urban Planning Course, Department of Urban Engineering\nBachelor’s degree in urban planning and design. Member of the campus festival committee directing graphic design, public relations, and campus planning."
   },
   {
     "objectID": "projects/30DayMapChallenge2023.html",
@@ -215,5 +215,12 @@
     "title": "The FLEX - AA DLAB 2023",
     "section": "Contributors",
     "text": "Contributors\n\nThe FLEX DLAB 2023 Structure\nProgramme Heads\nDr. Elif Erdine, Dr. Milad Showkatbakhsh\nAA Visiting School Director Dr. Christopher Pierce\nTutors Elif Erdine, Alexander Krolak, Angel Lara Moreira, Milad Showkatbakhsh\nTeaching Assistant Chengxuan Li\nStudents Laya Al Ibadi, Aeshah Alani, Yusuf Alperen Bayir, Rim Cherkaoui, Heloisa de Santis Alfredo, Ahmed Gewaily, Jiyeong Kim, Soki Kimura, Anna Kloos, Amalia Konstantinou, Luis Leon Escoda, Samanta Martinez, Ahmed Mitwally, Netra Mundada, Sudaksh Nigotiya, Zahra Parhizi, Yiru Wang, Hanqi Zhang"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "Soki Kimura",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nMinistry of Land, Infrastructure, Transport and Tourism of Japan\nTokyo / Osaka / Nara, Japan | 2019 - 2023\nExperience in civil engineering projects and policy-making for international infrastructure development.\nInvolved in the revision of river development plans, road construction planning, and drafting international policy agreements."
   }
 ]

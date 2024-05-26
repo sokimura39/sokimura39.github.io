@@ -4,7 +4,6 @@ subtitle: "Cities and Design"
 image: img/soki_kimura.jpg
 toc: false
 about:
-  id: about
   template: trestles
   image-width: 10em
   image-shape: round
@@ -17,8 +16,6 @@ about:
       href: https://www.linkedin.com/in/soki-kimura/
 ---
 
-:::{#about}
-
 ## Welcome!
 
 I am a planner passionate about planning, urban data, and design.
@@ -27,5 +24,3 @@ Click below to explore my projects and about myself.
 
 [Resume](about.qmd){.btn .btn-outline-dark .btn role="button"}
 [Projects](projects.qmd){.btn .btn-outline-dark .btn role="button"}
-
-:::
