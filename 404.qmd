@@ -1,0 +1,12 @@
+---
+title: "404"
+toc: false
+---
+
+## Page not Found
+
+The page you requested cannot be found.
+
+It might exist in the future - if I decide to work on it!
+
+[Back to Home](index.qmd){.btn .btn-dark .btn role="button"}
