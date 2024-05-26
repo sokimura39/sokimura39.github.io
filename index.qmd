@@ -1,11 +1,13 @@
 ---
 title: "Soki Kimura"
-subtitle: "Urban Planner / Designer"
+subtitle: "Cities and Design"
 image: img/soki_kimura.jpg
 toc: false
 about:
   id: about
   template: trestles
+  image-width: 10em
+  image-shape: round
   links:
     - icon: github
       text: GitHub
@@ -19,9 +21,11 @@ about:
 
 ## Welcome!
 
-Soki Kimura is an urban planner / designer with experience in the public sector in the field of civil engineering and intenrnational policy-making regarding the built environment. Passionate about urban planning and design and spatial data analysis.
+I am a planner passionate about planning, urban data, and design.
 
-[Resume](about.qmd){.btn .btn-outline-primary .btn role="button"}
-[Projects](projects.qmd){.btn .btn-outline-primary .btn role="button"}
+Click below to explore my projects and about myself.
+
+[Resume](about.qmd){.btn .btn-outline-dark .btn role="button"}
+[Projects](projects.qmd){.btn .btn-outline-dark .btn role="button"}
 
 :::

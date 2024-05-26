@@ -6,7 +6,7 @@ categories:
   - Architecture
 ---
 
-![Detailed view of the completed structure.](img/the_flex.jpg)
+![Detailed view of the completed structure.](img/the_flex/the_flex.jpg)
 
 ## Overview of Project
 

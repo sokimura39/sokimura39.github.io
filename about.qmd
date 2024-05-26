@@ -1,7 +1,21 @@
 ---
-title: Resume
+title: Soki Kimura
+subtitle: "Urban Planner / Designer"
 image: img/soki_kimura.jpg
+about:
+  template: solana
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/sokimura39
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/soki-kimura/
 ---
+
+Soki Kimura is an urban planner / designer with experience in the public sector in the field of civil engineering and international policy-making regarding the built environment. Passionate about urban planning and design and spatial data analysis.
 
 ## Skills
 
