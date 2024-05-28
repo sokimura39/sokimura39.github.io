@@ -70,18 +70,25 @@
     "text": "Gallery\nTwo models were created for the assignment, one for the overall design in 1:500 scale, and one for the detailed design in 1:200 scale.\n\n\n\nImagery of model for overall design. The left 2 pictures show the vistas, and on the right the final design is shown.\n\n\n\n\n\nImagery of model for specific design. Overview of whole model (top), main vista (mid-left), decked plaza (mid-right), view from the river (bottom-left), and the green river view (bottom-right)."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Soki Kimura",
+    "objectID": "projects/30DayMapChallenge2023.html",
+    "href": "projects/30DayMapChallenge2023.html",
+    "title": "30-Day Map Challenge 2023",
     "section": "",
-    "text": "I am a planner passionate about planning, urban data, and design.\nClick below to explore my projects and about myself.\nResume Projects"
+    "text": "The maps created for the #30DayMapChallenge 2023"
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Soki Kimura",
-    "section": "",
-    "text": "I am a planner passionate about planning, urban data, and design.\nClick below to explore my projects and about myself.\nResume Projects"
+    "objectID": "projects/30DayMapChallenge2023.html#overview-of-project",
+    "href": "projects/30DayMapChallenge2023.html#overview-of-project",
+    "title": "30-Day Map Challenge 2023",
+    "section": "Overview of Project",
+    "text": "Overview of Project\nThe #30DayMapChallenge is a daily mapmaking challenge that involves creating maps every day in November, with themes assigned for every day.\nIn 2023 I have created all 30 maps in 30 days, with the majority using R (mainly the packages in tidyverse - especially ggplot2, sf, terra, and some rayshader)."
+  },
+  {
+    "objectID": "projects/30DayMapChallenge2023.html#gallery",
+    "href": "projects/30DayMapChallenge2023.html#gallery",
+    "title": "30-Day Map Challenge 2023",
+    "section": "Gallery",
+    "text": "Gallery\nFor maps generated programatically, the code to generate are available on the GitHub repository."
   },
   {
     "objectID": "about.html",
@@ -105,11 +112,11 @@
     "text": "Qualifications\n\n2nd Class Architect / Building Planner of Japan [二級建築士]\nQualified for Associate Professional Engineer of Japan (Construction Division) [技術士一次試験合格（建設部門）]"
   },
   {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
     "title": "Soki Kimura",
-    "section": "Experience",
-    "text": "Experience\n\nMinistry of Land, Infrastructure, Transport and Tourism of Japan\nTokyo / Osaka / Nara, Japan | 2019 - 2023\nExperience in civil engineering projects and policy-making for international infrastructure development.\nInvolved in the revision of river development plans, road construction planning, and drafting international policy agreements."
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nMinistry of Land, Infrastructure, Transport and Tourism of Japan\nTokyo / Osaka / Nara, Japan | 2019 - 2023\nExperience in civil engineering projects and policy-making for international infrastructure development.\nInvolved in the revision of river development plans, road construction planning, and drafting international policy agreements."
   },
   {
     "objectID": "about.html#education",
@@ -119,25 +126,39 @@
     "text": "Education\n\nUniversity College London\nLondon, UK | 2023 -\nMSc Urban Spatial Science | The Bartlett Centre for Advanced Spatial Analysis\nCurrently en route to completing a master’s degree on urban spatial science, covering the fields of urban data analysis, network science, GIS, and remote sensing.\n\n\nThe University of Tokyo\nTokyo, Japan | 2015 - 2019\nBachelor of Engineering | Urban Planning Course, Department of Urban Engineering\nBachelor’s degree in urban planning and design. Member of the campus festival committee directing graphic design, public relations, and campus planning."
   },
   {
-    "objectID": "projects/30DayMapChallenge2023.html",
-    "href": "projects/30DayMapChallenge2023.html",
-    "title": "30-Day Map Challenge 2023",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Soki Kimura",
     "section": "",
-    "text": "The maps created for the #30DayMapChallenge 2023"
+    "text": "I am a planner passionate about planning, urban data, and design.\nClick below to explore my projects and about myself.\nResume Projects"
   },
   {
-    "objectID": "projects/30DayMapChallenge2023.html#overview-of-project",
-    "href": "projects/30DayMapChallenge2023.html#overview-of-project",
-    "title": "30-Day Map Challenge 2023",
-    "section": "Overview of Project",
-    "text": "Overview of Project\nThe #30DayMapChallenge is a daily mapmaking challenge that involves creating maps every day in November, with themes assigned for every day.\nIn 2023 I have created all 30 maps in 30 days, with the majority using R (mainly the packages in tidyverse - especially ggplot2, sf, terra, and some rayshader)."
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Soki Kimura",
+    "section": "",
+    "text": "I am a planner passionate about planning, urban data, and design.\nClick below to explore my projects and about myself.\nResume Projects"
   },
   {
-    "objectID": "projects/30DayMapChallenge2023.html#gallery",
-    "href": "projects/30DayMapChallenge2023.html#gallery",
-    "title": "30-Day Map Challenge 2023",
+    "objectID": "projects/abm_shading.html",
+    "href": "projects/abm_shading.html",
+    "title": "Agent-based Model of Cityscape",
+    "section": "",
+    "text": "Capture of model under varying the selfishness of each agent after 200 ticks. A high selfishness value creates high-rise skyscrapers, while a low value deconstructs them."
+  },
+  {
+    "objectID": "projects/abm_shading.html#overview",
+    "href": "projects/abm_shading.html#overview",
+    "title": "Agent-based Model of Cityscape",
+    "section": "Overview",
+    "text": "Overview\nThis model explores the consideration of externalities of high-rise buildings to the decision-making process, and how that impacts the outcome of the skyline of the city.\nIn the model, each agent considers the amenity of access to direct sunlight, open space, amount of view that they have outside the property’s window, and the price (modelled as more expensive on higher floors).\nSelfish agents only care about maximising their own amenity, whereas non-selfish agents consider the reduction of others’ amenity as well - the extent to which this is considered is dictated by a global variable. Agents will relocate to a different cell that maximises the amenity for themselves (and others if they are considerate).\n\n\n\nThe variables considered in the model.\n\n\nWork related to my undergraduate dissertation cumulative impact assessment project, considering the externalities of high-rise buildings.\nModel created using the ABM software NetLogo. Source code available at the GitHub repository"
+  },
+  {
+    "objectID": "projects/abm_shading.html#gallery",
+    "href": "projects/abm_shading.html#gallery",
+    "title": "Agent-based Model of Cityscape",
     "section": "Gallery",
-    "text": "Gallery\nFor maps generated programatically, the code to generate are available on the GitHub repository."
+    "text": "Gallery\n\n\n\nCapture of the model with 0% selfishness, where the building heights are low and equal compared to other models.\n\n\n\n\n\nCapture of the model with 50% selfishness, reaching an equilibrium after a certain point.\n\n\n\n\n\nInterface of the model on NetLogo. Global variables can be set using the sliders and buttons. Performance can be observed using a number of measures including the variance of height and average amenity of the agents."
   },
   {
     "objectID": "projects/campus_fest.html",
@@ -215,33 +236,5 @@
     "title": "The FLEX - AA DLAB 2023",
     "section": "Contributors",
     "text": "Contributors\n\nThe FLEX DLAB 2023 Structure\nProgramme Heads\nDr. Elif Erdine, Dr. Milad Showkatbakhsh\nAA Visiting School Director Dr. Christopher Pierce\nTutors Elif Erdine, Alexander Krolak, Angel Lara Moreira, Milad Showkatbakhsh\nTeaching Assistant Chengxuan Li\nStudents Laya Al Ibadi, Aeshah Alani, Yusuf Alperen Bayir, Rim Cherkaoui, Heloisa de Santis Alfredo, Ahmed Gewaily, Jiyeong Kim, Soki Kimura, Anna Kloos, Amalia Konstantinou, Luis Leon Escoda, Samanta Martinez, Ahmed Mitwally, Netra Mundada, Sudaksh Nigotiya, Zahra Parhizi, Yiru Wang, Hanqi Zhang"
-  },
-  {
-    "objectID": "about.html#professional-experience",
-    "href": "about.html#professional-experience",
-    "title": "Soki Kimura",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nMinistry of Land, Infrastructure, Transport and Tourism of Japan\nTokyo / Osaka / Nara, Japan | 2019 - 2023\nExperience in civil engineering projects and policy-making for international infrastructure development.\nInvolved in the revision of river development plans, road construction planning, and drafting international policy agreements."
-  },
-  {
-    "objectID": "projects/abm_shading.html",
-    "href": "projects/abm_shading.html",
-    "title": "Agent-based Model of Cityscape",
-    "section": "",
-    "text": "Capture of model under varying the selfishness of each agent after 200 ticks. A high selfishness value creates high-rise skyscrapers, while a low value deconstructs them."
-  },
-  {
-    "objectID": "projects/abm_shading.html#overview",
-    "href": "projects/abm_shading.html#overview",
-    "title": "Agent-based Model of Cityscape",
-    "section": "Overview",
-    "text": "Overview\nThis model explores the consideration of externalities of high-rise buildings to the decision-making process, and how that impacts the outcome of the skyline of the city.\nIn the model, each agent considers the amenity of access to direct sunlight, open space, amount of view that they have outside the property’s window, and the price (modelled as more expensive on higher floors).\nSelfish agents only care about maximising their own amenity, whereas non-selfish agents consider the reduction of others’ amenity as well - the extent to which this is considered is dictated by a global variable. Agents will relocate to a different cell that maximises the amenity for themselves (and others if they are considerate).\n\n\n\nThe variables considered in the model.\n\n\nWork related to my undergraduate dissertation cumulative impact assessment project, considering the externalities of high-rise buildings.\nModel created using the ABM software NetLogo. Source code available at the GitHub repository"
-  },
-  {
-    "objectID": "projects/abm_shading.html#gallery",
-    "href": "projects/abm_shading.html#gallery",
-    "title": "Agent-based Model of Cityscape",
-    "section": "Gallery",
-    "text": "Gallery\n\n\n\nCapture of the model with 0% selfishness, where the building heights are low and equal compared to other models.\n\n\n\n\n\nCapture of the model with 50% selfishness, reaching an equilibrium after a certain point.\n\n\n\n\n\nInterface of the model on NetLogo. Global variables can be set using the sliders and buttons. Performance can be observed using a number of measures including the variance of height and average amenity of the agents."
   }
 ]
