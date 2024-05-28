@@ -1,0 +1,34 @@
+---
+title: "Agent-based Model of Cityscape"
+description: "Undergraduate design project of a mixed-use neighbourhood in Kiyosumi, Tokyo, Japan."
+date: 2024-04-23
+image: img/abm_shading/selfishness_100.gif
+categories:
+  - Agent-based Modelling
+  - Planning
+---
+
+![Capture of model under varying the `selfishness` of each agent after 200 ticks. A high selfishness value creates high-rise skyscrapers, while a low value deconstructs them.](img/abm_shading/selfishness_100.gif)
+
+## Overview
+
+This model explores the consideration of externalities of high-rise buildings to the decision-making process, and how that impacts the outcome of the skyline of the city.
+
+In the model, each agent considers the amenity of access to direct sunlight, open space, amount of view that they have outside the property's window, and the price (modelled as more expensive on higher floors).
+
+Selfish agents only care about maximising their own amenity, whereas non-selfish agents consider the reduction of others' amenity as well - the extent to which this is considered is dictated by a global variable. Agents will relocate to a different cell that maximises the amenity for themselves (and others if they are considerate).
+
+![The variables considered in the model.](https://raw.githubusercontent.com/sokimura39/ABM_assessment/main/assessment_2/image/variables.png){width=50%}
+
+Work related to my undergraduate dissertation [cumulative impact assessment project](cumulative_eia.qmd), considering the externalities of high-rise buildings.
+
+Model created using the ABM software [NetLogo](https://ccl.northwestern.edu/netlogo/). Source code available at the [GitHub repository](https://github.com/sokimura39/ABM_assessment/tree/main/assessment_2)
+
+## Gallery
+
+![Capture of the model with 0% selfishness, where the building heights are low and equal compared to other models.](img/abm_shading/selfishness_0.gif)
+
+![Capture of the model with 50% selfishness, reaching an equilibrium after a certain point.](img/abm_shading/selfishness_50.gif)
+
+![Interface of the model on NetLogo. Global variables can be set using the sliders and buttons. Performance can be observed using a number of measures including the variance of height and average amenity of the agents.](img/abm_shading/interface.gif)
+
