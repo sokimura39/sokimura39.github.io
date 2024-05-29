@@ -1,0 +1,57 @@
+---
+title: "Sense It, Map It, Sorted."
+description: "Group project analysing flood risk from remote sensing data, creating a policy pitch and an application on Google Earth Engine."
+date: 2024-04-22
+image: https://gerardoezequiel.github.io/senseitmapitsorted/img/venn_diagram2.png
+categories:
+  - Remote Sensing
+  - Google Earth Engine
+---
+
+## Overview
+
+This project explored the potential of using remote sensing datasets to assess the vulnerability and exposure to floods. Composed of two parts in two modules, one policy pitch and one application using Google Earth Engine.
+
+## The Policy Pitch
+
+We have proposed a flood risk assessment plan making use of remote sensing for Da Nang, Viet Nam. The prediction of land use and its relationship to flood prone areas can be assessed using earth observation data.
+
+The slides we have used for the actual presentation is embedded below.
+
+```{r echo = FALSE, out.width='40%'}
+
+xaringanExtra::embed_xaringan(
+  url = "https://gerardoezequiel.github.io/senseitmapitsorted/",
+  ratio = "4:3")
+
+```
+
+My main contribution is the land use / expansion analysis and the summary of outcomes.
+
+## The Google Earth Engine App
+
+Building on top of the ideas accumulated at the policy pitch, we have created a Google Earth Engine app that explores the exposure to flood events in the past and identifying potentially risky areas.
+
+The application is embedded below. [Access directly](https://ee-yankomagn.projects.earthengine.app/view/floods-pakistan) for best experience.
+
+For more information, access [the website](https://grolls23.github.io/SenseitmapitsortedApp/) for details.
+
+::: column-screen
+<iframe src="https://ee-yankomagn.projects.earthengine.app/view/floods-pakistan" width="100%" height="700px">
+
+</iframe>
+:::
+
+I have contributed through the design and implementation of the user interface, making use of JavaScript and integrating all ideas and components created by other team members. 
+
+## Group Members
+
+This was a group project spanning two modules within the master's course.
+
+**Sense It, Map It, Sorted.**
+
+- Gerardo Ezequiel Martín Carreño
+- Jan Magnuszweski
+- Gavin Rolls
+- Viktoria Pues
+- Nikhil Desai

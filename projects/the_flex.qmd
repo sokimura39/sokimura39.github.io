@@ -14,7 +14,7 @@ The FLEX is a pavilion made of rattan canes making use of active bending techini
 
 This work was a collaborative project as a student at the AA DLAB 2023 in September 2023. The [AA DLAB](https://dlab.aaschool.ac.uk/) summer school at the [AA School(Architectural Association School of Architecture)](https://www.aaschool.ac.uk/) is a 2-week summer programme that experiments with the integration of advanced computational design, analysis, and large-scale prototyping.
 
-![The completed structure of the FLEX. Rattan canes in bundles of 7 are used as the primary structure - these were bundled together using industrial robotic arms.](img/the_flex_overview.jpg){width=50%}
+![The completed structure of the FLEX. Rattan canes in bundles of 7 are used as the primary structure - these were bundled together using industrial robotic arms.](img/the_flex/the_flex_overview.jpg){width=50%}
 
 ## Prototyping
 
