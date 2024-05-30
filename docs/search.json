@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here, you can find my projects that I have worked on recently and in the past.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAgent-based Model of Cityscape\n\n\n\nAgent-based Modelling\n\n\nPlanning\n\n\n\n\nApr 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSense It, Map It, Sorted.\n\n\n\nRemote Sensing\n\n\nGoogle Earth Engine\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRemote Sensing Learning Diary\n\n\n\nSpatial Analysis\n\n\nRemote Sensing\n\n\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCUSP Data Dive 2024\n\n\n\nSpatial Analysis\n\n\nHackathon\n\n\n\n\nFeb 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n30-Day Map Challenge 2023\n\n\n\nSpatial Analysis\n\n\nGraphic Design\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nThe FLEX - AA DLAB 2023\n\n\n\nArchitecture\n\n\n\n\nSep 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCumulative Environmental Impact Research\n\n\n\nPlanning\n\n\nResearch\n\n\n\n\nJun 6, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraphic Design for Campus Festivals\n\n\n\nGraphic Design\n\n\nPlanning\n\n\n\n\nMay 20, 2018\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridging the River, Green, and Culture\n\n\n\nArchitecture\n\n\nPlanning\n\n\n\n\nDec 20, 2016\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here, you can find my projects that I have worked on recently and in the past.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAgent-based Model of Cityscape\n\n\n\nAgent-based Modelling\n\n\nPlanning\n\n\n\n\nApr 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSense It, Map It, Sorted.\n\n\n\nRemote Sensing\n\n\nGoogle Earth Engine\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRemote Sensing Learning Diary\n\n\n\nSpatial Analysis\n\n\nRemote Sensing\n\n\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCUSP Data Dive 2024\n\n\n\nSpatial Analysis\n\n\nHackathon\n\n\n\n\nFeb 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of Active Travel Counts in London\n\n\n\nSpatial Analysis\n\n\n\n\nJan 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n30-Day Map Challenge 2023\n\n\n\nSpatial Analysis\n\n\nGraphic Design\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nThe FLEX - AA DLAB 2023\n\n\n\nArchitecture\n\n\n\n\nSep 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCumulative Environmental Impact Research\n\n\n\nPlanning\n\n\nResearch\n\n\n\n\nJun 6, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraphic Design for Campus Festivals\n\n\n\nGraphic Design\n\n\nPlanning\n\n\n\n\nMay 20, 2018\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridging the River, Green, and Culture\n\n\n\nArchitecture\n\n\nPlanning\n\n\n\n\nDec 20, 2016\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/rs_diary.html",
@@ -271,5 +271,40 @@
     "title": "Sense It, Map It, Sorted.",
     "section": "The Google Earth Engine App",
     "text": "The Google Earth Engine App\nBuilding on top of the ideas accumulated at the policy pitch, we have created a Google Earth Engine app that explores the exposure to flood events in the past and identifying potentially risky areas.\nThe application is embedded below. Access directly for best experience.\nFor more information, access the website for details.\n\n\n\n\nI have contributed through the design and implementation of the user interface, making use of JavaScript and integrating all ideas and components created by other team members."
+  },
+  {
+    "objectID": "projects/cycling_analysis.html",
+    "href": "projects/cycling_analysis.html",
+    "title": "Analysis of Active Travel Counts in London",
+    "section": "",
+    "text": "The first semester at UCL involved quite a bit of data analysis using TfL’s cycling database (quite coincidential). The projects on this page summarises work from my course involving cycling data analysis."
+  },
+  {
+    "objectID": "projects/cycling_analysis.html#overview",
+    "href": "projects/cycling_analysis.html#overview",
+    "title": "Analysis of Active Travel Counts in London",
+    "section": "",
+    "text": "The first semester at UCL involved quite a bit of data analysis using TfL’s cycling database (quite coincidential). The projects on this page summarises work from my course involving cycling data analysis."
+  },
+  {
+    "objectID": "projects/cycling_analysis.html#e-scooter-accident-analysis",
+    "href": "projects/cycling_analysis.html#e-scooter-accident-analysis",
+    "title": "Analysis of Active Travel Counts in London",
+    "section": "E-scooter Accident Analysis",
+    "text": "E-scooter Accident Analysis\nI have explored the correlation between the number of accidents and the amount of traffic passing through, showing a weak linear correlation. I have also explored the spatial autocorrelation through local Moran’s I analysis, indicating areas that have a relatively high accident rate compared to the surrounding areas.\nThis was done as a final assessment for the Geographic Information Systems and Science module conducted by Dr. Andy MacLachlan. Details of the prompt can be found at the GitHub repository. The report can be found here."
+  },
+  {
+    "objectID": "projects/cycling_analysis.html#active-travel-count-analysis",
+    "href": "projects/cycling_analysis.html#active-travel-count-analysis",
+    "title": "Analysis of Active Travel Counts in London",
+    "section": "Active Travel Count Analysis",
+    "text": "Active Travel Count Analysis\nWe have explored the relationship between the active travel counts and various factors of the built environment.\n\n\n\nActive travel count points\n\n\nWe have explored the following characteristics using multiple regression, returning the results shown.\n\nCharacteristics explored and their correlation with active travel counts.\n\n\n\n\n\n\nVariable\nCorrelation\n\n\n\n\nZone (Central / Inner / Outer)\nNegative correlation (more counts in the centre)\n\n\nWeather (Wet / Dry)\nNo significant correlation\n\n\nPeak times\nPositive correlation\n\n\nBus lane\nNo significant correlation\n\n\nCycle lane\nPositive correlation\n\n\nShared path\nNo significant correlation\n\n\n\nOne interesting point to note is the immunity of Londoners to bad weather when cycling - needs further investigation to confirm.\nThis was done as a group project as part of the Quantitative Methods module run by Dr. Huanfa Chen.\n\nGroup Members\n\nQiyue Chen\nHongkai Ren\nYilin Yang"
+  },
+  {
+    "objectID": "projects/cycling_analysis.html#santander-cycles-usage-data-analysis",
+    "href": "projects/cycling_analysis.html#santander-cycles-usage-data-analysis",
+    "title": "Analysis of Active Travel Counts in London",
+    "section": "Santander Cycles Usage Data Analysis",
+    "text": "Santander Cycles Usage Data Analysis\nThe Santander Cycles is the cycle hiring scheme in London, which provides usage data for all journeys taken.\n\n\n\nThe elevation of Santander Cycles docking stations.\n\n\nI have explored the relationship of elevation of docking stations and the number of journeys taken, taking away two key findings:\n\nWhen focusing on individual docking stations, the higher the elevation the ratio of departures over arrivals was higher, indicating users taking advantage of downhill journeys.\nOn the other hand, there was no obvious relationship between the height difference from origin to destination when given focus on each journey\n\n\n\n\nGraph showing relationship between departure / arrival ratio and elevation. Weak correlation can be observed.\n\n\nThis seemingly contradictory results provide room for further research, making clear the differences within Santander Cycle usages.\nThe report can be found at the GitHub repository."
   }
 ]
