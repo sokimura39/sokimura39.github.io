@@ -277,21 +277,21 @@
     "href": "projects/cycling_analysis.html",
     "title": "Analysis of Active Travel Counts in London",
     "section": "",
-    "text": "The first semester at UCL involved quite a bit of data analysis using TfL’s cycling database (quite coincidential). The projects on this page summarises work from my course involving cycling data analysis."
+    "text": "The first semester at UCL involved quite a bit of data analysis using TfL’s cycling database (quite coincidential). The projects on this page summarises work from my course (and some additional work) involving cycling data analysis."
   },
   {
     "objectID": "projects/cycling_analysis.html#overview",
     "href": "projects/cycling_analysis.html#overview",
     "title": "Analysis of Active Travel Counts in London",
     "section": "",
-    "text": "The first semester at UCL involved quite a bit of data analysis using TfL’s cycling database (quite coincidential). The projects on this page summarises work from my course involving cycling data analysis."
+    "text": "The first semester at UCL involved quite a bit of data analysis using TfL’s cycling database (quite coincidential). The projects on this page summarises work from my course (and some additional work) involving cycling data analysis."
   },
   {
     "objectID": "projects/cycling_analysis.html#e-scooter-accident-analysis",
     "href": "projects/cycling_analysis.html#e-scooter-accident-analysis",
     "title": "Analysis of Active Travel Counts in London",
     "section": "E-scooter Accident Analysis",
-    "text": "E-scooter Accident Analysis\nI have explored the correlation between the number of accidents and the amount of traffic passing through, showing a weak linear correlation. I have also explored the spatial autocorrelation through local Moran’s I analysis, indicating areas that have a relatively high accident rate compared to the surrounding areas.\nThis was done as a final assessment for the Geographic Information Systems and Science module conducted by Dr. Andy MacLachlan. Details of the prompt can be found at the GitHub repository. The report can be found here."
+    "text": "E-scooter Accident Analysis\nI have explored the correlation between the number of accidents and the amount of traffic passing through, showing a weak linear correlation. I have also explored the spatial autocorrelation through local Moran’s I analysis, indicating areas that have a relatively high accident rate compared to the surrounding areas.\n\n\n\n\n\n\nAccident density involving e-scooters, aggregated by borough. Central London has more accidents per square km compared to outer London - but given the high density of traffic we cannot immediately conclude these are the unsafe areas.\n\n\n\n\n\n\n\nLocal Moran’s I for the frequency of accidents in relation to the traffic density. High value indicates accidents are more frequent than the surrounding areas considering the traffic, and low values indicate fewer accidents.\n\n\n\n\n\nSome interesting trends were observed, indicating areas that may be potentially safer / more dangerous compared to their surrounding boroughs.\nThe full report can be found here.\nThis was done as a final assessment for the Geographic Information Systems and Science module conducted by Dr. Andy MacLachlan. Details of the prompt can be found at the GitHub repository."
   },
   {
     "objectID": "projects/cycling_analysis.html#active-travel-count-analysis",
@@ -305,6 +305,13 @@
     "href": "projects/cycling_analysis.html#santander-cycles-usage-data-analysis",
     "title": "Analysis of Active Travel Counts in London",
     "section": "Santander Cycles Usage Data Analysis",
-    "text": "Santander Cycles Usage Data Analysis\nThe Santander Cycles is the cycle hiring scheme in London, which provides usage data for all journeys taken.\n\n\n\nThe elevation of Santander Cycles docking stations.\n\n\nI have explored the relationship of elevation of docking stations and the number of journeys taken, taking away two key findings:\n\nWhen focusing on individual docking stations, the higher the elevation the ratio of departures over arrivals was higher, indicating users taking advantage of downhill journeys.\nOn the other hand, there was no obvious relationship between the height difference from origin to destination when given focus on each journey\n\n\n\n\nGraph showing relationship between departure / arrival ratio and elevation. Weak correlation can be observed.\n\n\nThis seemingly contradictory results provide room for further research, making clear the differences within Santander Cycle usages.\nThe report can be found at the GitHub repository."
+    "text": "Santander Cycles Usage Data Analysis\nThe Santander Cycles is the cycle hiring scheme in London, which provides usage data for all journeys taken.\n\n\n\nThe elevation of Santander Cycles docking stations. The hypothesis was that stations located in higher elevations have more outbound (downhill) flows.\n\n\nI have explored the relationship of elevation of docking stations and the number of journeys taken, taking away two key findings:\n\nWhen focusing on individual docking stations, the higher the elevation the ratio of departures over arrivals was higher, indicating users taking advantage of downhill journeys.\nOn the other hand, there was no obvious relationship between the height difference from origin to destination when given focus on each journey\n\n\n\n\nGraph showing relationship between departure / arrival ratio and elevation. Weak correlation can be observed.\n\n\nThis seemingly contradictory results provide room for further research, making clear the differences within Santander Cycle usages.\nThe report can be found at the GitHub repository."
+  },
+  {
+    "objectID": "projects/cycling_analysis.html#other-visualisations",
+    "href": "projects/cycling_analysis.html#other-visualisations",
+    "title": "Analysis of Active Travel Counts in London",
+    "section": "Other Visualisations",
+    "text": "Other Visualisations\nA few of my maps from the 30-Day Map Challenge 2023 have been based on cycle usage data.\n\n\n\n\n\n\nMap of Santander Cycles Docking Stations in London, colored according to the area that they are claimed to be in.\n\n\n\n\n\n\n\nA map of 10,000 recent trips made by the Santander Cycles, colored by the speed of travel.\n\n\n\n\n\n\n\nThe flow of cycles grouped according to the origin and destination zones. A thicker line indicates more flow between these areas, while the circles indicate intra-zone usage."
   }
 ]
