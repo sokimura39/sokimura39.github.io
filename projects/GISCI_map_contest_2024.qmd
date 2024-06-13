@@ -1,0 +1,29 @@
+---
+title: "Map of the \"Thirty-six Views of Mount Fuji\""
+description: "Location map of the Japanese landscape print series, winning First Prize at the GISCI Map Contest 2024."
+date: 2024-06-12
+image: img/fuji36_map.png
+categories:
+  - Graphic Design
+---
+
+[![*Map of the "Thirty-six Views of Mount Fuji"*, a first-prize winner for the GISCI Map Contest 2024. Click to download original PDF.](img/fuji36_map.png)
+](https://www.gisci.org/Portals/0/Images/2024%20Map%20Contest/S1%20114587104152_fuji36_map.pdf?ver=JWXVpzTFxTVMA22j0hNLuQ%3d%3d)
+
+## Overview
+
+The [GISCI Map Contest](https://www.gisci.org/Learn-More/Map-Contest/Previous-Contest-Winners) is an annual map contest hosted by the [GIS Certification Institute](https://www.gisci.org/). This year had no specific theme, and participants were requested to create maps that sparked their mind.
+
+The map shows the estimated locations of where each artwork is believed to be drawn. Among them there is my birthplace (Shimizu, Shizuoka, then called *Ejiri in Suruga Province*) and Senju, Tokyo (then in *Musashi Province*) where I lived for 2 years before moving to the UK; these personal connections with the artwork from the 1830s may have lead to the prize!
+
+## Some Additional Context
+
+A complete set of *Thirty-six Views of Mount Fuji* was recently put on auction for a record-breaking $3.5 million - the news was the very reason I chose this as my topic for the map.
+
+Inspired by the [interactive map by CANON Creative Park](https://creativepark.canon/meiga/artmap/fugaku36.html) on the same subject, my addition here is to turn it into a graphic that emphasises the beauty of Mount Fuji worth drawing from 46 different angles!
+
+Software used:
+
+- Blender
+- QGIS
+- Affinity Designer

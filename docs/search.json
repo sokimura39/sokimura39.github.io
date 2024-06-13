@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here, you can find my projects that I have worked on recently and in the past.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAgent-based Model of Cityscape\n\n\n\nAgent-based Modelling\n\n\nPlanning\n\n\n\n\nApr 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSense It, Map It, Sorted.\n\n\n\nRemote Sensing\n\n\nGoogle Earth Engine\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRemote Sensing Learning Diary\n\n\n\nSpatial Analysis\n\n\nRemote Sensing\n\n\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCUSP Data Dive 2024\n\n\n\nSpatial Analysis\n\n\nHackathon\n\n\n\n\nFeb 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of Active Travel Counts in London\n\n\n\nSpatial Analysis\n\n\n\n\nJan 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n30-Day Map Challenge 2023\n\n\n\nSpatial Analysis\n\n\nGraphic Design\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nThe FLEX - AA DLAB 2023\n\n\n\nArchitecture\n\n\n\n\nSep 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCumulative Environmental Impact Research\n\n\n\nPlanning\n\n\nResearch\n\n\n\n\nJun 6, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraphic Design for Campus Festivals\n\n\n\nGraphic Design\n\n\nPlanning\n\n\n\n\nMay 20, 2018\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridging the River, Green, and Culture\n\n\n\nArchitecture\n\n\nPlanning\n\n\n\n\nDec 20, 2016\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here, you can find my projects that I have worked on recently and in the past.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMap of the “Thirty-six Views of Mount Fuji”\n\n\n\nGraphic Design\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgent-based Model of Cityscape\n\n\n\nAgent-based Modelling\n\n\nPlanning\n\n\n\n\nApr 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSense It, Map It, Sorted.\n\n\n\nRemote Sensing\n\n\nGoogle Earth Engine\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRemote Sensing Learning Diary\n\n\n\nSpatial Analysis\n\n\nRemote Sensing\n\n\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCUSP Data Dive 2024\n\n\n\nSpatial Analysis\n\n\nHackathon\n\n\n\n\nFeb 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of Active Travel Counts in London\n\n\n\nSpatial Analysis\n\n\n\n\nJan 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n30-Day Map Challenge 2023\n\n\n\nSpatial Analysis\n\n\nGraphic Design\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nThe FLEX - AA DLAB 2023\n\n\n\nArchitecture\n\n\n\n\nSep 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCumulative Environmental Impact Research\n\n\n\nPlanning\n\n\nResearch\n\n\n\n\nJun 6, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraphic Design for Campus Festivals\n\n\n\nGraphic Design\n\n\nPlanning\n\n\n\n\nMay 20, 2018\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridging the River, Green, and Culture\n\n\n\nArchitecture\n\n\nPlanning\n\n\n\n\nDec 20, 2016\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/rs_diary.html",
@@ -313,5 +313,26 @@
     "title": "Analysis of Active Travel Counts in London",
     "section": "Other Visualisations",
     "text": "Other Visualisations\nA few of my maps from the 30-Day Map Challenge 2023 have been based on cycle usage data.\n\n\n\n\n\n\nMap of Santander Cycles Docking Stations in London, colored according to the area that they are claimed to be in.\n\n\n\n\n\n\n\nA map of 10,000 recent trips made by the Santander Cycles, colored by the speed of travel.\n\n\n\n\n\n\n\nThe flow of cycles grouped according to the origin and destination zones. A thicker line indicates more flow between these areas, while the circles indicate intra-zone usage."
+  },
+  {
+    "objectID": "projects/GISCI_map_contest_2024.html",
+    "href": "projects/GISCI_map_contest_2024.html",
+    "title": "Map of the “Thirty-six Views of Mount Fuji”",
+    "section": "",
+    "text": "Map of the “Thirty-six Views of Mount Fuji”, a first-prize winner for the GISCI Map Contest 2024. Click to download original PDF."
+  },
+  {
+    "objectID": "projects/GISCI_map_contest_2024.html#overview",
+    "href": "projects/GISCI_map_contest_2024.html#overview",
+    "title": "Map of the “Thirty-six Views of Mount Fuji”",
+    "section": "Overview",
+    "text": "Overview\nThe GISCI Map Contest is an annual map contest hosted by the GIS Certification Institute. This year had no specific theme, and participants were requested to create maps that sparked their mind.\nThe map shows the estimated locations of where each artwork is believed to be drawn. Among them there is my birthplace (Shimizu, Shizuoka, then called Ejiri in Suruga Province) and Senju, Tokyo (then in Musashi Province) where I lived for 2 years before moving to the UK; these personal connections with the artwork from the 1830s may have lead to the prize!"
+  },
+  {
+    "objectID": "projects/GISCI_map_contest_2024.html#some-additional-context",
+    "href": "projects/GISCI_map_contest_2024.html#some-additional-context",
+    "title": "Map of the “Thirty-six Views of Mount Fuji”",
+    "section": "Some Additional Context",
+    "text": "Some Additional Context\nA complete set of Thirty-six Views of Mount Fuji was recently put on auction for a record-breaking $3.5 million - the news was the very reason I chose this as my topic for the map.\nInspired by the interactive map by CANON Creative Park on the same subject, my addition here is to turn it into a graphic that emphasises the beauty of Mount Fuji worth drawing from 46 different angles!\nSoftware used:\n\nBlender\nQGIS\nAffinity Designer"
   }
 ]
