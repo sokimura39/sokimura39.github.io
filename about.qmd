@@ -14,6 +14,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/soki-kimura/
+    - icon: medium
+      text: Medium
+      href: https://medium.com/@sokimura39
 ---
 
 :::{#about}
@@ -46,7 +49,7 @@ Involved in the revision of river development plans, road construction planning,
 
 ### University College London
 
-London, UK | 2023 - 
+London, UK | 2023 - 2024
 
 MSc Urban Spatial Science | The Bartlett Centre for Advanced Spatial Analysis
 

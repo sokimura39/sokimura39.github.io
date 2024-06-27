@@ -7,39 +7,193 @@
     "text": "Here, you can find my projects that I have worked on recently and in the past.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMap of the “Thirty-six Views of Mount Fuji”\n\n\n\nGraphic Design\n\n\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgent-based Model of Cityscape\n\n\n\nAgent-based Modelling\n\n\nPlanning\n\n\n\n\nApr 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSense It, Map It, Sorted.\n\n\n\nRemote Sensing\n\n\nGoogle Earth Engine\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRemote Sensing Learning Diary\n\n\n\nSpatial Analysis\n\n\nRemote Sensing\n\n\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCUSP Data Dive 2024\n\n\n\nSpatial Analysis\n\n\nHackathon\n\n\n\n\nFeb 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of Active Travel Counts in London\n\n\n\nSpatial Analysis\n\n\n\n\nJan 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n30-Day Map Challenge 2023\n\n\n\nSpatial Analysis\n\n\nGraphic Design\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nThe FLEX - AA DLAB 2023\n\n\n\nArchitecture\n\n\n\n\nSep 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCumulative Environmental Impact Research\n\n\n\nPlanning\n\n\nResearch\n\n\n\n\nJun 6, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraphic Design for Campus Festivals\n\n\n\nGraphic Design\n\n\nPlanning\n\n\n\n\nMay 20, 2018\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBridging the River, Green, and Culture\n\n\n\nArchitecture\n\n\nPlanning\n\n\n\n\nDec 20, 2016\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/rs_diary.html",
-    "href": "projects/rs_diary.html",
-    "title": "Remote Sensing Learning Diary",
+    "objectID": "projects/sense_it.html",
+    "href": "projects/sense_it.html",
+    "title": "Sense It, Map It, Sorted.",
     "section": "",
-    "text": "The Remote Sensing Learning Diary is an academic project at UCL CASA, as part of the Remote Sensing Cities and Environment module. The learning diary summarises the content of the module, relevant applications, and personal reflections based on the contents. The website was created using Quarto, with presentations built using the Xaringan package in R.\n\n\n\n \n\n\n\n\n\nA false-color imagery of the Hudson Valley, New York using Sentinel Imagery. The vegetation appears red in this imagery, where infrared is highly reflected.\n\n\n\n\n \n\n\n\n\n\nThe texture measure of Delhi, India based on Landsat imagery, processed in Google Earth Engine. The highlighted areas have a high difference in neighbouring cells - this case indicating the existence of buildings.\n\n\n\n\n \n\n\n\n\nA portion of this module was dedicated to creating online portfolios - which was what had motivated me to compiling this website."
+    "text": "This project explored the potential of using remote sensing datasets to assess the vulnerability and exposure to floods. Composed of two parts in two modules, one policy pitch and one application using Google Earth Engine."
   },
   {
-    "objectID": "projects/cumulative_eia.html",
-    "href": "projects/cumulative_eia.html",
-    "title": "Cumulative Environmental Impact Research",
+    "objectID": "projects/sense_it.html#overview",
+    "href": "projects/sense_it.html#overview",
+    "title": "Sense It, Map It, Sorted.",
     "section": "",
-    "text": "The Musashi-Kosugi district located in suburban Tokyo has seen rapid construction of high-rise residential buildings, resulting in cumulative impacts of multiple development causing issues including exceeding infrastructure capacity and right to light impacts. The environmental impact assessment (EIA) focusing on individual developments have the potential to underestimate impacts for clustered buildings. This report assessed the environmental impacts for the following issues, all of which are ongrowing issues in the current Musashi-Kosugi area.\n\naccess to sunlight\noverpopulation of public education facilities\ncongestion of public transport\nimpact to the skyline\n\n\n\n\nMap of high-rise developments in the Musashi-Kosugi area, showing multiple skyscrapers are built and are planned."
+    "text": "This project explored the potential of using remote sensing datasets to assess the vulnerability and exposure to floods. Composed of two parts in two modules, one policy pitch and one application using Google Earth Engine."
   },
   {
-    "objectID": "projects/cumulative_eia.html#overview",
-    "href": "projects/cumulative_eia.html#overview",
-    "title": "Cumulative Environmental Impact Research",
+    "objectID": "projects/sense_it.html#the-policy-pitch",
+    "href": "projects/sense_it.html#the-policy-pitch",
+    "title": "Sense It, Map It, Sorted.",
+    "section": "The Policy Pitch",
+    "text": "The Policy Pitch\nWe have proposed a flood risk assessment plan making use of remote sensing for Da Nang, Viet Nam. The prediction of land use and its relationship to flood prone areas can be assessed using earth observation data.\nThe slides we have used for the actual presentation is embedded below.\n\n\n\n\n\n\n\n\nMy main contribution is the land use / expansion analysis and the summary of outcomes."
+  },
+  {
+    "objectID": "projects/sense_it.html#the-google-earth-engine-app",
+    "href": "projects/sense_it.html#the-google-earth-engine-app",
+    "title": "Sense It, Map It, Sorted.",
+    "section": "The Google Earth Engine App",
+    "text": "The Google Earth Engine App\nBuilding on top of the ideas accumulated at the policy pitch, we have created a Google Earth Engine app that explores the exposure to flood events in the past and identifying potentially risky areas.\nThe application is embedded below. Access directly for best experience.\nFor more information, access the website for details.\n\n\n\n\nI have contributed through the design and implementation of the user interface, making use of JavaScript and integrating all ideas and components created by other team members."
+  },
+  {
+    "objectID": "projects/sense_it.html#group-members",
+    "href": "projects/sense_it.html#group-members",
+    "title": "Sense It, Map It, Sorted.",
+    "section": "Group Members",
+    "text": "Group Members\nThis was a group project spanning two modules within the master’s course.\nSense It, Map It, Sorted.\n\nGerardo Ezequiel Martín Carreño\nJan Magnuszweski\nGavin Rolls\nViktoria Pues\nNikhil Desai"
+  },
+  {
+    "objectID": "projects/GISCI_map_contest_2024.html",
+    "href": "projects/GISCI_map_contest_2024.html",
+    "title": "Map of the “Thirty-six Views of Mount Fuji”",
     "section": "",
-    "text": "The Musashi-Kosugi district located in suburban Tokyo has seen rapid construction of high-rise residential buildings, resulting in cumulative impacts of multiple development causing issues including exceeding infrastructure capacity and right to light impacts. The environmental impact assessment (EIA) focusing on individual developments have the potential to underestimate impacts for clustered buildings. This report assessed the environmental impacts for the following issues, all of which are ongrowing issues in the current Musashi-Kosugi area.\n\naccess to sunlight\noverpopulation of public education facilities\ncongestion of public transport\nimpact to the skyline\n\n\n\n\nMap of high-rise developments in the Musashi-Kosugi area, showing multiple skyscrapers are built and are planned."
+    "text": "Map of the “Thirty-six Views of Mount Fuji”, a first-prize winner for the GISCI Map Contest 2024. Click to download original PDF."
   },
   {
-    "objectID": "projects/cumulative_eia.html#key-results",
-    "href": "projects/cumulative_eia.html#key-results",
-    "title": "Cumulative Environmental Impact Research",
-    "section": "Key Results",
-    "text": "Key Results\n\nDifference in Individual and Cumulative Impacts\nThe research has discovered the individual EIAs have failed to acknowledge the cumulative impact of multiple developments.\nThe impact on shadows were the most clearly illustrated - as shown below.\n\n\n\nDifference between the shadows cast by individual buildings and the cumulative shadows. Even if the shadows from one building affects an area for a small amount of time, having multiple buildings blocking sunlight leads to having the majority of the day without access to sunlight.\n\n\nOther interesting results included the change in the perception of the transforming skyline, with a new high-rise development being described as a ‘symbolic structure’ in early stages, but later changed into ‘subtle change’ that fits within the given surroundings with multiple high-rises.\n\n\nEngagement from EIAs\nThe engagement from individual development-based EIAs have a spectrum of consideration toward cumulative impacts, depending on the subject. There were issues that were not considered at all (i.e. impact on public transport), issues that had only been considered on an individual basis (right to light, change in skyline) to issues with mitigating measures conducted by the EIA (impact of wind). Not all issues have been considered in the EIA, and some are only considered in an individual scale."
+    "objectID": "projects/GISCI_map_contest_2024.html#overview",
+    "href": "projects/GISCI_map_contest_2024.html#overview",
+    "title": "Map of the “Thirty-six Views of Mount Fuji”",
+    "section": "Overview",
+    "text": "Overview\nThe GISCI Map Contest is an annual map contest hosted by the GIS Certification Institute. This year had no specific theme, and participants were requested to create maps that sparked their mind.\nThe map shows the estimated locations of where each artwork is believed to be drawn. Among them there is my birthplace (Shimizu, Shizuoka, then called Ejiri in Suruga Province) and Senju, Tokyo (then in Musashi Province) where I lived for 2 years before moving to the UK; these personal connections with the artwork from the 1830s may have lead to the prize!"
   },
   {
-    "objectID": "projects/cumulative_eia.html#publication",
-    "href": "projects/cumulative_eia.html#publication",
-    "title": "Cumulative Environmental Impact Research",
-    "section": "Publication",
-    "text": "Publication\nReported on the Reports of the City Planning Institute of Japan (available in Japanese only) and can be accessible from J-Stage\nCite as:\nJapanese\n木村 颯希、真鍋 陸太郎、村山 顕人(2019), 「超高層建築物の群化による複合的環境影響に関する研究　ー武蔵小杉駅周辺市街地を対象にー」, 「日本都市計画学会 都市計画報告集」 No. 18, May 2019, pp.87-91\nEnglish\nKimura, S., Manabe, R., and Murayama, A. (2019) ‘A Study on the Cumulative Environmental Impacts of the Clustered High- Rise Buildings: A Case Study of Musashi-Kosugi, Kawasaki’, Reports of the City Planning Institute of Japan, 18 (May 2019), pp.87-91"
+    "objectID": "projects/GISCI_map_contest_2024.html#some-additional-context",
+    "href": "projects/GISCI_map_contest_2024.html#some-additional-context",
+    "title": "Map of the “Thirty-six Views of Mount Fuji”",
+    "section": "Some Additional Context",
+    "text": "Some Additional Context\nA complete set of Thirty-six Views of Mount Fuji was recently put on auction for a record-breaking $3.5 million - the news was the very reason I chose this as my topic for the map.\nInspired by the interactive map by CANON Creative Park on the same subject, my addition here is to turn it into a graphic that emphasises the beauty of Mount Fuji worth drawing from 46 different angles!\nSoftware used:\n\nBlender\nQGIS\nAffinity Designer"
+  },
+  {
+    "objectID": "projects/CUSP_data_dive.html",
+    "href": "projects/CUSP_data_dive.html",
+    "title": "CUSP Data Dive 2024",
+    "section": "",
+    "text": "Plot showing the relationship of difference in serious road casualties by London borough. Blue- and red-bordered boroughs represent case studies of well-performing and need-improvement boroughs from the perspective of cycling infrastructure."
+  },
+  {
+    "objectID": "projects/CUSP_data_dive.html#overview-of-project",
+    "href": "projects/CUSP_data_dive.html#overview-of-project",
+    "title": "CUSP Data Dive 2024",
+    "section": "Overview of Project",
+    "text": "Overview of Project\nThe CUSP London Data Dive 2024 was a 4-day hackathon hosted by the Centre for Urban Science and Progress exploring the fields of transport, safety, air quality, and health.\nThe group project investigated the relationship between cycling infrastructure investments and road casualities. Explored datasets include TfL Cycling Data - especially active travel counts and cycling infrastructure, and road collision data also available from TfL.\n\n\n\nDensity of cycling casualties compared to the number of active travel counts (cyclist counts). Darker boroughs indicate there is a relatively higher probability of cycling casualties for cyclists, indicating room for improvement in terms of cyclist safety.\n\n\nAlthough a direct correlation could not be drawn, a case-study based narrative indicates investment on cycling infrastructure may have positive impact in improving cycling safety. Limitations lie in the availability of data, especially the temporal data on infrastructure implementation.\nThe code and analysis outcomes are available on GitHub"
+  },
+  {
+    "objectID": "projects/CUSP_data_dive.html#group-members",
+    "href": "projects/CUSP_data_dive.html#group-members",
+    "title": "CUSP Data Dive 2024",
+    "section": "Group Members",
+    "text": "Group Members\nThis was a joint project by students from King’s College London, the University of Glasgow, and UCL.\nCUSP London Data Dive Group\n\nAlbright Besung\nAmandeep Singh\nHardik Sangwan\nLaura Gamba R.\nManuella C. de Paulo\nSoki Kimura"
+  },
+  {
+    "objectID": "projects/campus_fest.html",
+    "href": "projects/campus_fest.html",
+    "title": "Graphic Design for Campus Festivals",
+    "section": "",
+    "text": "The University of Tokyo has 2 large campus festivals on their 2 main campuses: the May Festival in May at the Hongo Campus, and the Komaba Festival in November at the Komaba Campus. I was involved in the public relations, graphic design, and wayfinding for 3 years during my undergraduate studies, serving as the Director of Public Relations at the Komaba Festival in 2016 and the May Festival in 2018. Other roles include publishing leader and wayfinding team."
+  },
+  {
+    "objectID": "projects/campus_fest.html#overview",
+    "href": "projects/campus_fest.html#overview",
+    "title": "Graphic Design for Campus Festivals",
+    "section": "",
+    "text": "The University of Tokyo has 2 large campus festivals on their 2 main campuses: the May Festival in May at the Hongo Campus, and the Komaba Festival in November at the Komaba Campus. I was involved in the public relations, graphic design, and wayfinding for 3 years during my undergraduate studies, serving as the Director of Public Relations at the Komaba Festival in 2016 and the May Festival in 2018. Other roles include publishing leader and wayfinding team."
+  },
+  {
+    "objectID": "projects/campus_fest.html#gallery",
+    "href": "projects/campus_fest.html#gallery",
+    "title": "Graphic Design for Campus Festivals",
+    "section": "Gallery",
+    "text": "Gallery\nShown below are some of the works I created during my 3 year period, with emphasis on works from directing years."
+  },
+  {
+    "objectID": "projects/abm_shading.html",
+    "href": "projects/abm_shading.html",
+    "title": "Agent-based Model of Cityscape",
+    "section": "",
+    "text": "Capture of model under varying the selfishness of each agent after 200 ticks. A high selfishness value creates high-rise skyscrapers, while a low value deconstructs them."
+  },
+  {
+    "objectID": "projects/abm_shading.html#overview",
+    "href": "projects/abm_shading.html#overview",
+    "title": "Agent-based Model of Cityscape",
+    "section": "Overview",
+    "text": "Overview\nThis model explores the consideration of externalities of high-rise buildings to the decision-making process, and how that impacts the outcome of the skyline of the city.\nIn the model, each agent considers the amenity of access to direct sunlight, open space, amount of view that they have outside the property’s window, and the price (modelled as more expensive on higher floors).\nSelfish agents only care about maximising their own amenity, whereas non-selfish agents consider the reduction of others’ amenity as well - the extent to which this is considered is dictated by a global variable. Agents will relocate to a different cell that maximises the amenity for themselves (and others if they are considerate).\n\n\n\nThe variables considered in the model.\n\n\nWork related to my undergraduate dissertation cumulative impact assessment project, considering the externalities of high-rise buildings.\nModel created using the ABM software NetLogo. Source code available at the GitHub repository"
+  },
+  {
+    "objectID": "projects/abm_shading.html#gallery",
+    "href": "projects/abm_shading.html#gallery",
+    "title": "Agent-based Model of Cityscape",
+    "section": "Gallery",
+    "text": "Gallery\n\n\n\nCapture of the model with 0% selfishness, where the building heights are low and equal compared to other models.\n\n\n\n\n\nCapture of the model with 50% selfishness, reaching an equilibrium after a certain point.\n\n\n\n\n\nInterface of the model on NetLogo. Global variables can be set using the sliders and buttons. Performance can be observed using a number of measures including the variance of height and average amenity of the agents."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Soki Kimura",
+    "section": "",
+    "text": "I am a planner passionate about planning, urban data, and design.\nClick below to explore my projects and about myself.\nResume Projects"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Soki Kimura",
+    "section": "",
+    "text": "I am a planner passionate about planning, urban data, and design.\nClick below to explore my projects and about myself.\nResume Projects"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Soki Kimura",
+    "section": "",
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Medium\n  \n\n      \nSoki Kimura is an urban planner / designer with experience in the public sector in the field of civil engineering and international policy-making regarding the built environment. Passionate about urban planning and design and spatial data analysis."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "Soki Kimura",
+    "section": "Skills",
+    "text": "Skills\n\nSpatial Data Science: R / Python / SQL / QGIS\nGraphic Design: Adobe CC [Illustrator, InDesign] / Blender\nLanguages: Japanese [Native] / English [Fluent]"
+  },
+  {
+    "objectID": "about.html#qualifications",
+    "href": "about.html#qualifications",
+    "title": "Soki Kimura",
+    "section": "Qualifications",
+    "text": "Qualifications\n\n2nd Class Architect / Building Planner of Japan [二級建築士]\nQualified for Associate Professional Engineer of Japan (Construction Division) [技術士一次試験合格（建設部門）]"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "Soki Kimura",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nMinistry of Land, Infrastructure, Transport and Tourism of Japan\nTokyo / Osaka / Nara, Japan | 2019 - 2023\nExperience in civil engineering projects and policy-making for international infrastructure development.\nInvolved in the revision of river development plans, road construction planning, and drafting international policy agreements."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Soki Kimura",
+    "section": "Education",
+    "text": "Education\n\nUniversity College London\nLondon, UK | 2023 - 2024\nMSc Urban Spatial Science | The Bartlett Centre for Advanced Spatial Analysis\nCurrently en route to completing a master’s degree on urban spatial science, covering the fields of urban data analysis, network science, GIS, and remote sensing.\n\n\nThe University of Tokyo\nTokyo, Japan | 2015 - 2019\nBachelor of Engineering | Urban Planning Course, Department of Urban Engineering\nBachelor’s degree in urban planning and design. Member of the campus festival committee directing graphic design, public relations, and campus planning."
+  },
+  {
+    "objectID": "projects/30DayMapChallenge2023.html",
+    "href": "projects/30DayMapChallenge2023.html",
+    "title": "30-Day Map Challenge 2023",
+    "section": "",
+    "text": "The maps created for the #30DayMapChallenge 2023"
+  },
+  {
+    "objectID": "projects/30DayMapChallenge2023.html#overview-of-project",
+    "href": "projects/30DayMapChallenge2023.html#overview-of-project",
+    "title": "30-Day Map Challenge 2023",
+    "section": "Overview of Project",
+    "text": "Overview of Project\nThe #30DayMapChallenge is a daily mapmaking challenge that involves creating maps every day in November, with themes assigned for every day.\nIn 2023 I have created all 30 maps in 30 days, with the majority using R (mainly the packages in tidyverse - especially ggplot2, sf, terra, and some rayshader)."
+  },
+  {
+    "objectID": "projects/30DayMapChallenge2023.html#gallery",
+    "href": "projects/30DayMapChallenge2023.html#gallery",
+    "title": "30-Day Map Challenge 2023",
+    "section": "Gallery",
+    "text": "Gallery\nFor maps generated programatically, the code to generate are available on the GitHub repository."
   },
   {
     "objectID": "projects/bridging_kiyosumi.html",
@@ -70,207 +224,32 @@
     "text": "Gallery\nTwo models were created for the assignment, one for the overall design in 1:500 scale, and one for the detailed design in 1:200 scale.\n\n\n\nImagery of model for overall design. The left 2 pictures show the vistas, and on the right the final design is shown.\n\n\n\n\n\nImagery of model for specific design. Overview of whole model (top), main vista (mid-left), decked plaza (mid-right), view from the river (bottom-left), and the green river view (bottom-right)."
   },
   {
-    "objectID": "projects/30DayMapChallenge2023.html",
-    "href": "projects/30DayMapChallenge2023.html",
-    "title": "30-Day Map Challenge 2023",
+    "objectID": "projects/cumulative_eia.html",
+    "href": "projects/cumulative_eia.html",
+    "title": "Cumulative Environmental Impact Research",
     "section": "",
-    "text": "The maps created for the #30DayMapChallenge 2023"
+    "text": "The Musashi-Kosugi district located in suburban Tokyo has seen rapid construction of high-rise residential buildings, resulting in cumulative impacts of multiple development causing issues including exceeding infrastructure capacity and right to light impacts. The environmental impact assessment (EIA) focusing on individual developments have the potential to underestimate impacts for clustered buildings. This report assessed the environmental impacts for the following issues, all of which are ongrowing issues in the current Musashi-Kosugi area.\n\naccess to sunlight\noverpopulation of public education facilities\ncongestion of public transport\nimpact to the skyline\n\n\n\n\nMap of high-rise developments in the Musashi-Kosugi area, showing multiple skyscrapers are built and are planned."
   },
   {
-    "objectID": "projects/30DayMapChallenge2023.html#overview-of-project",
-    "href": "projects/30DayMapChallenge2023.html#overview-of-project",
-    "title": "30-Day Map Challenge 2023",
-    "section": "Overview of Project",
-    "text": "Overview of Project\nThe #30DayMapChallenge is a daily mapmaking challenge that involves creating maps every day in November, with themes assigned for every day.\nIn 2023 I have created all 30 maps in 30 days, with the majority using R (mainly the packages in tidyverse - especially ggplot2, sf, terra, and some rayshader)."
-  },
-  {
-    "objectID": "projects/30DayMapChallenge2023.html#gallery",
-    "href": "projects/30DayMapChallenge2023.html#gallery",
-    "title": "30-Day Map Challenge 2023",
-    "section": "Gallery",
-    "text": "Gallery\nFor maps generated programatically, the code to generate are available on the GitHub repository."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Soki Kimura",
+    "objectID": "projects/cumulative_eia.html#overview",
+    "href": "projects/cumulative_eia.html#overview",
+    "title": "Cumulative Environmental Impact Research",
     "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n\n      \nSoki Kimura is an urban planner / designer with experience in the public sector in the field of civil engineering and international policy-making regarding the built environment. Passionate about urban planning and design and spatial data analysis."
+    "text": "The Musashi-Kosugi district located in suburban Tokyo has seen rapid construction of high-rise residential buildings, resulting in cumulative impacts of multiple development causing issues including exceeding infrastructure capacity and right to light impacts. The environmental impact assessment (EIA) focusing on individual developments have the potential to underestimate impacts for clustered buildings. This report assessed the environmental impacts for the following issues, all of which are ongrowing issues in the current Musashi-Kosugi area.\n\naccess to sunlight\noverpopulation of public education facilities\ncongestion of public transport\nimpact to the skyline\n\n\n\n\nMap of high-rise developments in the Musashi-Kosugi area, showing multiple skyscrapers are built and are planned."
   },
   {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
-    "title": "Soki Kimura",
-    "section": "Skills",
-    "text": "Skills\n\nSpatial Data Science: R / Python / SQL / QGIS\nGraphic Design: Adobe CC [Illustrator, InDesign] / Blender\nLanguages: Japanese [Native] / English [Fluent]"
+    "objectID": "projects/cumulative_eia.html#key-results",
+    "href": "projects/cumulative_eia.html#key-results",
+    "title": "Cumulative Environmental Impact Research",
+    "section": "Key Results",
+    "text": "Key Results\n\nDifference in Individual and Cumulative Impacts\nThe research has discovered the individual EIAs have failed to acknowledge the cumulative impact of multiple developments.\nThe impact on shadows were the most clearly illustrated - as shown below.\n\n\n\nDifference between the shadows cast by individual buildings and the cumulative shadows. Even if the shadows from one building affects an area for a small amount of time, having multiple buildings blocking sunlight leads to having the majority of the day without access to sunlight.\n\n\nOther interesting results included the change in the perception of the transforming skyline, with a new high-rise development being described as a ‘symbolic structure’ in early stages, but later changed into ‘subtle change’ that fits within the given surroundings with multiple high-rises.\n\n\nEngagement from EIAs\nThe engagement from individual development-based EIAs have a spectrum of consideration toward cumulative impacts, depending on the subject. There were issues that were not considered at all (i.e. impact on public transport), issues that had only been considered on an individual basis (right to light, change in skyline) to issues with mitigating measures conducted by the EIA (impact of wind). Not all issues have been considered in the EIA, and some are only considered in an individual scale."
   },
   {
-    "objectID": "about.html#qualifications",
-    "href": "about.html#qualifications",
-    "title": "Soki Kimura",
-    "section": "Qualifications",
-    "text": "Qualifications\n\n2nd Class Architect / Building Planner of Japan [二級建築士]\nQualified for Associate Professional Engineer of Japan (Construction Division) [技術士一次試験合格（建設部門）]"
-  },
-  {
-    "objectID": "about.html#professional-experience",
-    "href": "about.html#professional-experience",
-    "title": "Soki Kimura",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nMinistry of Land, Infrastructure, Transport and Tourism of Japan\nTokyo / Osaka / Nara, Japan | 2019 - 2023\nExperience in civil engineering projects and policy-making for international infrastructure development.\nInvolved in the revision of river development plans, road construction planning, and drafting international policy agreements."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Soki Kimura",
-    "section": "Education",
-    "text": "Education\n\nUniversity College London\nLondon, UK | 2023 -\nMSc Urban Spatial Science | The Bartlett Centre for Advanced Spatial Analysis\nCurrently en route to completing a master’s degree on urban spatial science, covering the fields of urban data analysis, network science, GIS, and remote sensing.\n\n\nThe University of Tokyo\nTokyo, Japan | 2015 - 2019\nBachelor of Engineering | Urban Planning Course, Department of Urban Engineering\nBachelor’s degree in urban planning and design. Member of the campus festival committee directing graphic design, public relations, and campus planning."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Soki Kimura",
-    "section": "",
-    "text": "I am a planner passionate about planning, urban data, and design.\nClick below to explore my projects and about myself.\nResume Projects"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Soki Kimura",
-    "section": "",
-    "text": "I am a planner passionate about planning, urban data, and design.\nClick below to explore my projects and about myself.\nResume Projects"
-  },
-  {
-    "objectID": "projects/abm_shading.html",
-    "href": "projects/abm_shading.html",
-    "title": "Agent-based Model of Cityscape",
-    "section": "",
-    "text": "Capture of model under varying the selfishness of each agent after 200 ticks. A high selfishness value creates high-rise skyscrapers, while a low value deconstructs them."
-  },
-  {
-    "objectID": "projects/abm_shading.html#overview",
-    "href": "projects/abm_shading.html#overview",
-    "title": "Agent-based Model of Cityscape",
-    "section": "Overview",
-    "text": "Overview\nThis model explores the consideration of externalities of high-rise buildings to the decision-making process, and how that impacts the outcome of the skyline of the city.\nIn the model, each agent considers the amenity of access to direct sunlight, open space, amount of view that they have outside the property’s window, and the price (modelled as more expensive on higher floors).\nSelfish agents only care about maximising their own amenity, whereas non-selfish agents consider the reduction of others’ amenity as well - the extent to which this is considered is dictated by a global variable. Agents will relocate to a different cell that maximises the amenity for themselves (and others if they are considerate).\n\n\n\nThe variables considered in the model.\n\n\nWork related to my undergraduate dissertation cumulative impact assessment project, considering the externalities of high-rise buildings.\nModel created using the ABM software NetLogo. Source code available at the GitHub repository"
-  },
-  {
-    "objectID": "projects/abm_shading.html#gallery",
-    "href": "projects/abm_shading.html#gallery",
-    "title": "Agent-based Model of Cityscape",
-    "section": "Gallery",
-    "text": "Gallery\n\n\n\nCapture of the model with 0% selfishness, where the building heights are low and equal compared to other models.\n\n\n\n\n\nCapture of the model with 50% selfishness, reaching an equilibrium after a certain point.\n\n\n\n\n\nInterface of the model on NetLogo. Global variables can be set using the sliders and buttons. Performance can be observed using a number of measures including the variance of height and average amenity of the agents."
-  },
-  {
-    "objectID": "projects/campus_fest.html",
-    "href": "projects/campus_fest.html",
-    "title": "Graphic Design for Campus Festivals",
-    "section": "",
-    "text": "The University of Tokyo has 2 large campus festivals on their 2 main campuses: the May Festival in May at the Hongo Campus, and the Komaba Festival in November at the Komaba Campus. I was involved in the public relations, graphic design, and wayfinding for 3 years during my undergraduate studies, serving as the Director of Public Relations at the Komaba Festival in 2016 and the May Festival in 2018. Other roles include publishing leader and wayfinding team."
-  },
-  {
-    "objectID": "projects/campus_fest.html#overview",
-    "href": "projects/campus_fest.html#overview",
-    "title": "Graphic Design for Campus Festivals",
-    "section": "",
-    "text": "The University of Tokyo has 2 large campus festivals on their 2 main campuses: the May Festival in May at the Hongo Campus, and the Komaba Festival in November at the Komaba Campus. I was involved in the public relations, graphic design, and wayfinding for 3 years during my undergraduate studies, serving as the Director of Public Relations at the Komaba Festival in 2016 and the May Festival in 2018. Other roles include publishing leader and wayfinding team."
-  },
-  {
-    "objectID": "projects/campus_fest.html#gallery",
-    "href": "projects/campus_fest.html#gallery",
-    "title": "Graphic Design for Campus Festivals",
-    "section": "Gallery",
-    "text": "Gallery\nShown below are some of the works I created during my 3 year period, with emphasis on works from directing years."
-  },
-  {
-    "objectID": "projects/CUSP_data_dive.html",
-    "href": "projects/CUSP_data_dive.html",
-    "title": "CUSP Data Dive 2024",
-    "section": "",
-    "text": "Plot showing the relationship of difference in serious road casualties by London borough. Blue- and red-bordered boroughs represent case studies of well-performing and need-improvement boroughs from the perspective of cycling infrastructure."
-  },
-  {
-    "objectID": "projects/CUSP_data_dive.html#overview-of-project",
-    "href": "projects/CUSP_data_dive.html#overview-of-project",
-    "title": "CUSP Data Dive 2024",
-    "section": "Overview of Project",
-    "text": "Overview of Project\nThe CUSP London Data Dive 2024 was a 4-day hackathon hosted by the Centre for Urban Science and Progress exploring the fields of transport, safety, air quality, and health.\nThe group project investigated the relationship between cycling infrastructure investments and road casualities. Explored datasets include TfL Cycling Data - especially active travel counts and cycling infrastructure, and road collision data also available from TfL.\n\n\n\nDensity of cycling casualties compared to the number of active travel counts (cyclist counts). Darker boroughs indicate there is a relatively higher probability of cycling casualties for cyclists, indicating room for improvement in terms of cyclist safety.\n\n\nAlthough a direct correlation could not be drawn, a case-study based narrative indicates investment on cycling infrastructure may have positive impact in improving cycling safety. Limitations lie in the availability of data, especially the temporal data on infrastructure implementation.\nThe code and analysis outcomes are available on GitHub"
-  },
-  {
-    "objectID": "projects/CUSP_data_dive.html#group-members",
-    "href": "projects/CUSP_data_dive.html#group-members",
-    "title": "CUSP Data Dive 2024",
-    "section": "Group Members",
-    "text": "Group Members\nThis was a joint project by students from King’s College London, the University of Glasgow, and UCL.\nCUSP London Data Dive Group\n\nAlbright Besung\nAmandeep Singh\nHardik Sangwan\nLaura Gamba R.\nManuella C. de Paulo\nSoki Kimura"
-  },
-  {
-    "objectID": "projects/the_flex.html",
-    "href": "projects/the_flex.html",
-    "title": "The FLEX - AA DLAB 2023",
-    "section": "",
-    "text": "Detailed view of the completed structure."
-  },
-  {
-    "objectID": "projects/the_flex.html#overview-of-project",
-    "href": "projects/the_flex.html#overview-of-project",
-    "title": "The FLEX - AA DLAB 2023",
-    "section": "Overview of Project",
-    "text": "Overview of Project\nThe FLEX is a pavilion made of rattan canes making use of active bending techiniques. Parametric design methodologies were implemented in the designing stage using Grasshopper on Rhinoceros.\nThis work was a collaborative project as a student at the AA DLAB 2023 in September 2023. The AA DLAB summer school at the AA School(Architectural Association School of Architecture) is a 2-week summer programme that experiments with the integration of advanced computational design, analysis, and large-scale prototyping.\n\n\n\nThe completed structure of the FLEX. Rattan canes in bundles of 7 are used as the primary structure - these were bundled together using industrial robotic arms."
-  },
-  {
-    "objectID": "projects/the_flex.html#prototyping",
-    "href": "projects/the_flex.html#prototyping",
-    "title": "The FLEX - AA DLAB 2023",
-    "section": "Prototyping",
-    "text": "Prototyping\nAside from the cooperative work on building the prototype based on the decided design, my major contribution was the co-designing of the ‘foot’ - 3D printed attachments to the bottom of the structure, stablising them onto the ground. The physical allocation of connecting beams required consideration.\n\n\n\n\n\n\nPrototype of foot accommodating connecting beams.\n\n\n\n\n\n\n\nRender of foot. The foot was 3D-printed using this model\n\n\n\n\n\n\n\nFoot in use, filled with sand for weight."
-  },
-  {
-    "objectID": "projects/the_flex.html#design-proposals",
-    "href": "projects/the_flex.html#design-proposals",
-    "title": "The FLEX - AA DLAB 2023",
-    "section": "Design Proposals",
-    "text": "Design Proposals\nStudents were required to create a design proposal in a small group. Our proposal was The Elephant (co-designed with Yusuf Alperen Bayir and Sudaksh Nigotiya), an arch-shaped structure using helical modules. The circle is one geometry that self-stabilises under active-bending conditions, which we have utilised as the main structure.\n\n\n\n\n\n\nStructural analysis of prototype using Karamba3D on Grasshopper. Dark colors indicate higher stress.\n\n\n\n\n\n\n\nScale model of proposed model. Variations in cane density was experimented using a small-scale model.\n\n\n\n\n\n\n\n1:1 scale model of one helix module. Construction was to be created by stacking the minimal modules on top of each other."
-  },
-  {
-    "objectID": "projects/the_flex.html#contributors",
-    "href": "projects/the_flex.html#contributors",
-    "title": "The FLEX - AA DLAB 2023",
-    "section": "Contributors",
-    "text": "Contributors\n\nThe FLEX DLAB 2023 Structure\nProgramme Heads\nDr. Elif Erdine, Dr. Milad Showkatbakhsh\nAA Visiting School Director Dr. Christopher Pierce\nTutors Elif Erdine, Alexander Krolak, Angel Lara Moreira, Milad Showkatbakhsh\nTeaching Assistant Chengxuan Li\nStudents Laya Al Ibadi, Aeshah Alani, Yusuf Alperen Bayir, Rim Cherkaoui, Heloisa de Santis Alfredo, Ahmed Gewaily, Jiyeong Kim, Soki Kimura, Anna Kloos, Amalia Konstantinou, Luis Leon Escoda, Samanta Martinez, Ahmed Mitwally, Netra Mundada, Sudaksh Nigotiya, Zahra Parhizi, Yiru Wang, Hanqi Zhang"
-  },
-  {
-    "objectID": "projects/sense_it.html",
-    "href": "projects/sense_it.html",
-    "title": "Sense It, Map It, Sorted.",
-    "section": "",
-    "text": "This project explored the potential of using remote sensing datasets to assess the vulnerability and exposure to floods. Composed of two parts in two modules, one policy pitch and one application using Google Earth Engine."
-  },
-  {
-    "objectID": "projects/sense_it.html#overview",
-    "href": "projects/sense_it.html#overview",
-    "title": "Sense It, Map It, Sorted.",
-    "section": "",
-    "text": "This project explored the potential of using remote sensing datasets to assess the vulnerability and exposure to floods. Composed of two parts in two modules, one policy pitch and one application using Google Earth Engine."
-  },
-  {
-    "objectID": "projects/sense_it.html#the-policy-pitch",
-    "href": "projects/sense_it.html#the-policy-pitch",
-    "title": "Sense It, Map It, Sorted.",
-    "section": "The Policy Pitch",
-    "text": "The Policy Pitch\nWe have proposed a flood risk assessment plan making use of remote sensing for Da Nang, Viet Nam. The prediction of land use and its relationship to flood prone areas can be assessed using earth observation data.\nThe slides we have used for the actual presentation is embedded below.\n\n\n\n\n\n\n\n\nMy main contribution is the land use / expansion analysis and the summary of outcomes."
-  },
-  {
-    "objectID": "projects/sense_it.html#group-members",
-    "href": "projects/sense_it.html#group-members",
-    "title": "Sense It, Map It, Sorted.",
-    "section": "Group Members",
-    "text": "Group Members\nThis was a group project spanning two modules within the master’s course.\nSense It, Map It, Sorted.\n\nGerardo Ezequiel Martín Carreño\nJan Magnuszweski\nGavin Rolls\nViktoria Pues\nNikhil Desai"
-  },
-  {
-    "objectID": "projects/sense_it.html#the-google-earth-engine-app",
-    "href": "projects/sense_it.html#the-google-earth-engine-app",
-    "title": "Sense It, Map It, Sorted.",
-    "section": "The Google Earth Engine App",
-    "text": "The Google Earth Engine App\nBuilding on top of the ideas accumulated at the policy pitch, we have created a Google Earth Engine app that explores the exposure to flood events in the past and identifying potentially risky areas.\nThe application is embedded below. Access directly for best experience.\nFor more information, access the website for details.\n\n\n\n\nI have contributed through the design and implementation of the user interface, making use of JavaScript and integrating all ideas and components created by other team members."
+    "objectID": "projects/cumulative_eia.html#publication",
+    "href": "projects/cumulative_eia.html#publication",
+    "title": "Cumulative Environmental Impact Research",
+    "section": "Publication",
+    "text": "Publication\nReported on the Reports of the City Planning Institute of Japan (available in Japanese only) and can be accessible from J-Stage\nCite as:\nJapanese\n木村 颯希、真鍋 陸太郎、村山 顕人(2019), 「超高層建築物の群化による複合的環境影響に関する研究　ー武蔵小杉駅周辺市街地を対象にー」, 「日本都市計画学会 都市計画報告集」 No. 18, May 2019, pp.87-91\nEnglish\nKimura, S., Manabe, R., and Murayama, A. (2019) ‘A Study on the Cumulative Environmental Impacts of the Clustered High- Rise Buildings: A Case Study of Musashi-Kosugi, Kawasaki’, Reports of the City Planning Institute of Japan, 18 (May 2019), pp.87-91"
   },
   {
     "objectID": "projects/cycling_analysis.html",
@@ -315,24 +294,45 @@
     "text": "Other Visualisations\nA few of my maps from the 30-Day Map Challenge 2023 have been based on cycle usage data.\n\n\n\n\n\n\nMap of Santander Cycles Docking Stations in London, colored according to the area that they are claimed to be in.\n\n\n\n\n\n\n\nA map of 10,000 recent trips made by the Santander Cycles, colored by the speed of travel.\n\n\n\n\n\n\n\nThe flow of cycles grouped according to the origin and destination zones. A thicker line indicates more flow between these areas, while the circles indicate intra-zone usage."
   },
   {
-    "objectID": "projects/GISCI_map_contest_2024.html",
-    "href": "projects/GISCI_map_contest_2024.html",
-    "title": "Map of the “Thirty-six Views of Mount Fuji”",
+    "objectID": "projects/rs_diary.html",
+    "href": "projects/rs_diary.html",
+    "title": "Remote Sensing Learning Diary",
     "section": "",
-    "text": "Map of the “Thirty-six Views of Mount Fuji”, a first-prize winner for the GISCI Map Contest 2024. Click to download original PDF."
+    "text": "The Remote Sensing Learning Diary is an academic project at UCL CASA, as part of the Remote Sensing Cities and Environment module. The learning diary summarises the content of the module, relevant applications, and personal reflections based on the contents. The website was created using Quarto, with presentations built using the Xaringan package in R.\n\n\n\n \n\n\n\n\n\nA false-color imagery of the Hudson Valley, New York using Sentinel Imagery. The vegetation appears red in this imagery, where infrared is highly reflected.\n\n\n\n\n \n\n\n\n\n\nThe texture measure of Delhi, India based on Landsat imagery, processed in Google Earth Engine. The highlighted areas have a high difference in neighbouring cells - this case indicating the existence of buildings.\n\n\n\n\n \n\n\n\n\nA portion of this module was dedicated to creating online portfolios - which was what had motivated me to compiling this website."
   },
   {
-    "objectID": "projects/GISCI_map_contest_2024.html#overview",
-    "href": "projects/GISCI_map_contest_2024.html#overview",
-    "title": "Map of the “Thirty-six Views of Mount Fuji”",
-    "section": "Overview",
-    "text": "Overview\nThe GISCI Map Contest is an annual map contest hosted by the GIS Certification Institute. This year had no specific theme, and participants were requested to create maps that sparked their mind.\nThe map shows the estimated locations of where each artwork is believed to be drawn. Among them there is my birthplace (Shimizu, Shizuoka, then called Ejiri in Suruga Province) and Senju, Tokyo (then in Musashi Province) where I lived for 2 years before moving to the UK; these personal connections with the artwork from the 1830s may have lead to the prize!"
+    "objectID": "projects/the_flex.html",
+    "href": "projects/the_flex.html",
+    "title": "The FLEX - AA DLAB 2023",
+    "section": "",
+    "text": "Detailed view of the completed structure."
   },
   {
-    "objectID": "projects/GISCI_map_contest_2024.html#some-additional-context",
-    "href": "projects/GISCI_map_contest_2024.html#some-additional-context",
-    "title": "Map of the “Thirty-six Views of Mount Fuji”",
-    "section": "Some Additional Context",
-    "text": "Some Additional Context\nA complete set of Thirty-six Views of Mount Fuji was recently put on auction for a record-breaking $3.5 million - the news was the very reason I chose this as my topic for the map.\nInspired by the interactive map by CANON Creative Park on the same subject, my addition here is to turn it into a graphic that emphasises the beauty of Mount Fuji worth drawing from 46 different angles!\nSoftware used:\n\nBlender\nQGIS\nAffinity Designer"
+    "objectID": "projects/the_flex.html#overview-of-project",
+    "href": "projects/the_flex.html#overview-of-project",
+    "title": "The FLEX - AA DLAB 2023",
+    "section": "Overview of Project",
+    "text": "Overview of Project\nThe FLEX is a pavilion made of rattan canes making use of active bending techiniques. Parametric design methodologies were implemented in the designing stage using Grasshopper on Rhinoceros.\nThis work was a collaborative project as a student at the AA DLAB 2023 in September 2023. The AA DLAB summer school at the AA School(Architectural Association School of Architecture) is a 2-week summer programme that experiments with the integration of advanced computational design, analysis, and large-scale prototyping.\n\n\n\nThe completed structure of the FLEX. Rattan canes in bundles of 7 are used as the primary structure - these were bundled together using industrial robotic arms."
+  },
+  {
+    "objectID": "projects/the_flex.html#prototyping",
+    "href": "projects/the_flex.html#prototyping",
+    "title": "The FLEX - AA DLAB 2023",
+    "section": "Prototyping",
+    "text": "Prototyping\nAside from the cooperative work on building the prototype based on the decided design, my major contribution was the co-designing of the ‘foot’ - 3D printed attachments to the bottom of the structure, stablising them onto the ground. The physical allocation of connecting beams required consideration.\n\n\n\n\n\n\nPrototype of foot accommodating connecting beams.\n\n\n\n\n\n\n\nRender of foot. The foot was 3D-printed using this model\n\n\n\n\n\n\n\nFoot in use, filled with sand for weight."
+  },
+  {
+    "objectID": "projects/the_flex.html#design-proposals",
+    "href": "projects/the_flex.html#design-proposals",
+    "title": "The FLEX - AA DLAB 2023",
+    "section": "Design Proposals",
+    "text": "Design Proposals\nStudents were required to create a design proposal in a small group. Our proposal was The Elephant (co-designed with Yusuf Alperen Bayir and Sudaksh Nigotiya), an arch-shaped structure using helical modules. The circle is one geometry that self-stabilises under active-bending conditions, which we have utilised as the main structure.\n\n\n\n\n\n\nStructural analysis of prototype using Karamba3D on Grasshopper. Dark colors indicate higher stress.\n\n\n\n\n\n\n\nScale model of proposed model. Variations in cane density was experimented using a small-scale model.\n\n\n\n\n\n\n\n1:1 scale model of one helix module. Construction was to be created by stacking the minimal modules on top of each other."
+  },
+  {
+    "objectID": "projects/the_flex.html#contributors",
+    "href": "projects/the_flex.html#contributors",
+    "title": "The FLEX - AA DLAB 2023",
+    "section": "Contributors",
+    "text": "Contributors\n\nThe FLEX DLAB 2023 Structure\nProgramme Heads\nDr. Elif Erdine, Dr. Milad Showkatbakhsh\nAA Visiting School Director Dr. Christopher Pierce\nTutors Elif Erdine, Alexander Krolak, Angel Lara Moreira, Milad Showkatbakhsh\nTeaching Assistant Chengxuan Li\nStudents Laya Al Ibadi, Aeshah Alani, Yusuf Alperen Bayir, Rim Cherkaoui, Heloisa de Santis Alfredo, Ahmed Gewaily, Jiyeong Kim, Soki Kimura, Anna Kloos, Amalia Konstantinou, Luis Leon Escoda, Samanta Martinez, Ahmed Mitwally, Netra Mundada, Sudaksh Nigotiya, Zahra Parhizi, Yiru Wang, Hanqi Zhang"
   }
 ]
