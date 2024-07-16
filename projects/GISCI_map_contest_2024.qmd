@@ -16,6 +16,8 @@ The [GISCI Map Contest](https://www.gisci.org/Learn-More/Map-Contest/Previous-Co
 
 The map shows the estimated locations of where each artwork is believed to be drawn. Among them there is my birthplace (Shimizu, Shizuoka, then called *Ejiri in Suruga Province*) and Senju, Tokyo (then in *Musashi Province*) where I lived for 2 years before moving to the UK; these personal connections with the artwork from the 1830s may have lead to the prize!
 
+Now available at the [Esri's Virtual Map Gallery](https://www.esri.com/en-us/about/events/uc/agenda/virtual-map-gallery#/submission-detail/35121), and was exhibited at the Esri User Conference in July 2024.
+
 ## Some Additional Context
 
 A complete set of *Thirty-six Views of Mount Fuji* was recently put on auction for a record-breaking $3.5 million - the news was the very reason I chose this as my topic for the map.
@@ -27,3 +29,7 @@ Software used:
 - Blender
 - QGIS
 - Affinity Designer
+
+## Read More
+
+I have created a post on [Medium.com](https://medium.com/@sokimura39/map-contest-fuji-3e862c7465df) about this map for more information.
