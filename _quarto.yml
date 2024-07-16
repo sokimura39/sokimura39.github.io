@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Soki Kimura"
+  image: img/london.jpg
   navbar:
     background: dark
     left:
@@ -28,6 +29,8 @@ website:
         href: https://www.linkedin.com/in/soki-kimura/
       - icon: github
         href: https://github.com/sokimura39
+  twitter-card: true
+  open-graph: true
 
 format:
   html:
