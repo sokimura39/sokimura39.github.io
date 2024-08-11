@@ -341,5 +341,12 @@
     "title": "Map of the “Thirty-six Views of Mount Fuji”",
     "section": "Read More",
     "text": "Read More\nI have created a post on Medium.com about this map for more information."
+  },
+  {
+    "objectID": "about.html#awards",
+    "href": "about.html#awards",
+    "title": "Soki Kimura",
+    "section": "Awards",
+    "text": "Awards\n\nFirst Prize, CASA Data Hackathon 2024 as Team GeoJSVN [James Tan, Soki Kimura, Vincent Bedu and Nikhil Desai] - analysis of spatial optimisation of fire service operations\nFirst Prize, Student Category, GIS Certification Institute Map Contest - Map of “the Thirty-six View of Mount Fuji” visualising the locations of Hokusai’s artwork using Blender / on display in Esri’s Virtual Map Gallery"
   }
 ]
