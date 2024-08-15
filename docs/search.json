@@ -63,6 +63,13 @@
     "text": "Some Additional Context\nA complete set of Thirty-six Views of Mount Fuji was recently put on auction for a record-breaking $3.5 million - the news was the very reason I chose this as my topic for the map.\nInspired by the interactive map by CANON Creative Park on the same subject, my addition here is to turn it into a graphic that emphasises the beauty of Mount Fuji worth drawing from 46 different angles!\nSoftware used:\n\nBlender\nQGIS\nAffinity Designer"
   },
   {
+    "objectID": "projects/GISCI_map_contest_2024.html#read-more",
+    "href": "projects/GISCI_map_contest_2024.html#read-more",
+    "title": "Map of the “Thirty-six Views of Mount Fuji”",
+    "section": "Read More",
+    "text": "Read More\nI have created a post on Medium.com about this map for more information."
+  },
+  {
     "objectID": "projects/CUSP_data_dive.html",
     "href": "projects/CUSP_data_dive.html",
     "title": "CUSP Data Dive 2024",
@@ -173,6 +180,13 @@
     "title": "Soki Kimura",
     "section": "Education",
     "text": "Education\n\nUniversity College London\nLondon, UK | 2023 - 2024\nMSc Urban Spatial Science | The Bartlett Centre for Advanced Spatial Analysis\nCurrently en route to completing a master’s degree on urban spatial science, covering the fields of urban data analysis, network science, GIS, and remote sensing.\n\n\nThe University of Tokyo\nTokyo, Japan | 2015 - 2019\nBachelor of Engineering | Urban Planning Course, Department of Urban Engineering\nBachelor’s degree in urban planning and design. Member of the campus festival committee directing graphic design, public relations, and campus planning."
+  },
+  {
+    "objectID": "about.html#awards",
+    "href": "about.html#awards",
+    "title": "Soki Kimura",
+    "section": "Awards",
+    "text": "Awards\n\nFirst Prize, CASA Data Hackathon 2024 as Team GeoJSVN [James Tan, Soki Kimura, Vincent Bedu and Nikhil Desai] - analysis of spatial optimisation of fire service operations\nFirst Prize, Student Category, GIS Certification Institute Map Contest - Map of “the Thirty-six View of Mount Fuji” visualising the locations of Hokusai’s artwork using Blender / on display in Esri’s Virtual Map Gallery"
   },
   {
     "objectID": "projects/30DayMapChallenge2023.html",
@@ -334,19 +348,5 @@
     "title": "The FLEX - AA DLAB 2023",
     "section": "Contributors",
     "text": "Contributors\n\nThe FLEX DLAB 2023 Structure\nProgramme Heads\nDr. Elif Erdine, Dr. Milad Showkatbakhsh\nAA Visiting School Director Dr. Christopher Pierce\nTutors Elif Erdine, Alexander Krolak, Angel Lara Moreira, Milad Showkatbakhsh\nTeaching Assistant Chengxuan Li\nStudents Laya Al Ibadi, Aeshah Alani, Yusuf Alperen Bayir, Rim Cherkaoui, Heloisa de Santis Alfredo, Ahmed Gewaily, Jiyeong Kim, Soki Kimura, Anna Kloos, Amalia Konstantinou, Luis Leon Escoda, Samanta Martinez, Ahmed Mitwally, Netra Mundada, Sudaksh Nigotiya, Zahra Parhizi, Yiru Wang, Hanqi Zhang"
-  },
-  {
-    "objectID": "projects/GISCI_map_contest_2024.html#read-more",
-    "href": "projects/GISCI_map_contest_2024.html#read-more",
-    "title": "Map of the “Thirty-six Views of Mount Fuji”",
-    "section": "Read More",
-    "text": "Read More\nI have created a post on Medium.com about this map for more information."
-  },
-  {
-    "objectID": "about.html#awards",
-    "href": "about.html#awards",
-    "title": "Soki Kimura",
-    "section": "Awards",
-    "text": "Awards\n\nFirst Prize, CASA Data Hackathon 2024 as Team GeoJSVN [James Tan, Soki Kimura, Vincent Bedu and Nikhil Desai] - analysis of spatial optimisation of fire service operations\nFirst Prize, Student Category, GIS Certification Institute Map Contest - Map of “the Thirty-six View of Mount Fuji” visualising the locations of Hokusai’s artwork using Blender / on display in Esri’s Virtual Map Gallery"
   }
 ]

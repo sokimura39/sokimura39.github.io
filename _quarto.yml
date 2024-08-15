@@ -16,6 +16,8 @@ website:
     tools:
       - icon: medium
         href: https://medium.com/@sokimura39
+      - icon: twitter
+        href: https://x.com/sokim39
       - icon: linkedin
         href: https://www.linkedin.com/in/soki-kimura/
       - icon: github
@@ -25,6 +27,8 @@ website:
     right: 
       - icon: medium
         href: https://medium.com/@sokimura39
+      - icon: twitter
+        href: https://x.com/sokim39
       - icon: linkedin
         href: https://www.linkedin.com/in/soki-kimura/
       - icon: github
