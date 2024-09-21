@@ -14,6 +14,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/soki-kimura/
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/sokim39
     - icon: medium
       text: Medium
       href: https://medium.com/@sokimura39
@@ -37,15 +40,23 @@ Soki Kimura is an urban planner / designer with experience in the public sector 
 
 ## Professional Experience
 
-### Experience in the Public Sector
+### Public Sector Experience
 
 Tokyo / Osaka / Nara, Japan | 2019 - 2023
 
-Experience in civil engineering projects and policy-making for international infrastructure development.
+Experience in civil engineering projects and policy-making for international infrastructure development within the Japanese national government.
 
 Involved in the revision of river development plans, road construction planning, and drafting international policy agreements. 
 
 ## Education
+
+### The University of Sheffield
+
+Sheffield, UK | 2024 - 
+
+MA Urban Design | School of Architecture and Landscape
+
+Studying a studio-based master's degree in urban design.
 
 ### University College London
 
@@ -53,7 +64,7 @@ London, UK | 2023 - 2024
 
 MSc Urban Spatial Science | The Bartlett Centre for Advanced Spatial Analysis
 
-Currently en route to completing a master's degree on urban spatial science, covering the fields of urban data analysis, network science, GIS, and remote sensing.
+Completed a master's degree on urban spatial science, covering the fields of urban data analysis, network science, GIS, and remote sensing.
 
 ### The University of Tokyo
 
