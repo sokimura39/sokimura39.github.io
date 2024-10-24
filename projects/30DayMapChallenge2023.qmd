@@ -7,7 +7,7 @@ categories:
   - Graphic Design
 ---
 
-![The maps created for the #30DayMapChallenge 2023](https://raw.githubusercontent.com/sokimura39/30DayMapChallenge/master/Maps/Maps_Gallery.png)
+![The maps created for the #30DayMapChallenge 2023](https://raw.githubusercontent.com/sokimura39/30DayMapChallenge/master/2023/Maps/Maps_Gallery.png)
 
 ## Overview of Project
 
@@ -25,7 +25,7 @@ library(pixture)
 
 # create paths
 days <- seq(1, 30)
-paths <- paste0('https://raw.githubusercontent.com/sokimura39/30DayMapChallenge/master/Maps/Day', formatC(days, width = 2, flag = '0'), '.png')
+paths <- paste0('https://raw.githubusercontent.com/sokimura39/30DayMapChallenge/master/2023/Maps/Day', formatC(days, width = 2, flag = '0'), '.png')
 
 # captions
 captions <- c(
