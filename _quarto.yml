@@ -14,25 +14,29 @@ website:
         text: Resume
       - projects.qmd
     tools:
-      - icon: medium
-        href: https://medium.com/@sokimura39
-      - icon: twitter
-        href: https://x.com/sokim39
-      - icon: linkedin
-        href: https://www.linkedin.com/in/soki-kimura/
       - icon: github
         href: https://github.com/sokimura39
+      - icon: linkedin
+        href: https://www.linkedin.com/in/soki-kimura/
+      - icon: twitter
+        href: https://x.com/sokim39
+      - icon: person-circle
+        href: https://bsky.app/profile/sokim39.bsky.social
+      - icon: medium
+        href: https://medium.com/@sokimura39
   page-footer: 
     left: "© 2024 Soki Kimura"
     right: 
-      - icon: medium
-        href: https://medium.com/@sokimura39
-      - icon: twitter
-        href: https://x.com/sokim39
-      - icon: linkedin
-        href: https://www.linkedin.com/in/soki-kimura/
       - icon: github
         href: https://github.com/sokimura39
+      - icon: linkedin
+        href: https://www.linkedin.com/in/soki-kimura/
+      - icon: twitter
+        href: https://x.com/sokim39
+      - icon: person-circle
+        href: https://bsky.app/profile/sokim39.bsky.social
+      - icon: medium
+        href: https://medium.com/@sokimura39
   twitter-card: true
   open-graph: true
 

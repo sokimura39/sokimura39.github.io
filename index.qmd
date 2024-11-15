@@ -17,6 +17,9 @@ about:
     - icon: twitter
       text: Twitter
       href: https://x.com/sokim39
+    - icon: person-circle
+      text: Bluesky
+      href: https://bsky.app/profile/sokim39.bsky.social
     - icon: medium
       text: Medium
       href: https://medium.com/@sokimura39
