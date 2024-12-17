@@ -5,7 +5,11 @@ project:
 website:
   title: "Soki Kimura"
   image: img/london.jpg
+  favicon: img/favicon.png
   navbar:
+    title: false
+    logo: img/logo.png
+    logo-alt: "Soki Kimura"
     background: dark
     left:
       - href: index.qmd
