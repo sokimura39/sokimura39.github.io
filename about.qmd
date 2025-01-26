@@ -11,18 +11,23 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/sokimura39
+      target: _blank
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/soki-kimura/
+      target: _blank
     - icon: twitter
       text: Twitter
       href: https://x.com/sokim39
+      target: _blank
     - icon: person-circle
       text: Bluesky
       href: https://bsky.app/profile/sokim39.bsky.social
+      target: _blank
     - icon: medium
       text: Medium
       href: https://medium.com/@sokimura39
+      target: _blank
 ---
 
 :::{#about}

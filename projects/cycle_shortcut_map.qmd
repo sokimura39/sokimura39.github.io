@@ -1,0 +1,53 @@
+---
+title: "Cycle-Shortcut: Beat the Winding Rails"
+description: "Proposing and visualising a cycle-rail combined way of travel throughout Tokyo; a project as part of the Nishikata Tokotoko Explorers."
+date: 2025-01-17
+image: https://nishikata-tokotoko.github.io/cycle-shortcut-map/img/ogp_index.png
+categories:
+  - Web Application
+  - Hackathon
+  - Spatial Analysis
+---
+
+## Overview
+
+[*Cycle-Shortcut: Beat the Winding Rails*](https://nishikata-tokotoko.github.io/cycle-shortcut-map/) is a web application that visualises the possibility of a combined use of cycling and rail transport. In particular, this map explores the notion of the *mid-one-mile* - connecting between stations midway between transferring stations.
+
+Click above link for best experience.
+
+This was created as a submission for the [Open Data Challenge for Public Transport 2024](https://challenge2024.odpt.org/index-e.html), a competition for open-data based applications.
+
+::: column-page
+<iframe src="https://nishikata-tokotoko.github.io/cycle-shortcut-map/" width="100%" height="700px"></iframe>
+:::
+
+## Components
+
+There are two major components in the web-app, with different users in mind.
+
+### Journey Planner / Isopleth
+
+Our first component is the [Journey Planner / Isopleth](https://nishikata-tokotoko.github.io/cycle-shortcut-map/map.html) that allows travel between stations if that is an acceptable choice.
+
+The main target is the users of the public transport network, suggesting a new route that incorporates a short cycle ride in between stations, contributing to health, sustainable travel, and all the other benefits cycling has to offer.
+
+### Cycle Potential Map
+
+The second component is the [Cycle Potential Map](https://nishikata-tokotoko.github.io/cycle-shortcut-map/cycle_station.html) which shows the routes that have high potential to be used as a cycling corridor. 
+
+This map provides a city-wide scale potential, aimed at planners and cycle hire scheme operators that aim to promote cycling (or the use of their services) within the Tokyo Metropolitan area. 
+
+This was calculated using OD-centrality, or a usage-weighted version of betweenness centrality.
+
+## Collaborators
+
+*Cycle-Shortcut: Beat the Winding Rails* was a collaborative project as part of the [Nishikata Tokotoko Explorers](https://nishikata-tokotoko.github.io/), a team formed of 4 alumni from the Department of Urban Engineering, the University of Tokyo.
+
+I was the main developer creating the maps using MapLibre.
+
+## Links
+
+All material in Japanese, hoping to make an English version in the near future.
+
+- [*Cycle-Shortcut: Beat the Winding Rails*](https://nishikata-tokotoko.github.io/cycle-shortcut-map/)
+- [Developer Blog](https://note.com/nishitoko) 
