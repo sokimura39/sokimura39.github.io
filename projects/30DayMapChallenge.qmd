@@ -2,6 +2,10 @@
 title: "30-Day Map Challenge 2023"
 description: "My contribution to the #30DayMapChallenge 2023, creating maps for every day in November."
 date: 2023-11-30
+date-modified: 2024-11-30
+aliases: 
+  - 30DayMapChallenge2023.html
+image: https://raw.githubusercontent.com/sokimura39/30DayMapChallenge/master/2023/Maps/Maps_Gallery.png
 categories:
   - Spatial Analysis
   - Graphic Design
