@@ -2,6 +2,7 @@
 title: "CUSP Data Dive 2024"
 description: "Group project at a spatial data science hackathon, exploring road safety and cycling infrastructure."
 date: 2024-02-23
+image: https://raw.githubusercontent.com/sokimura39/CUSP_Data_Dive/main/plots/casualty_difference.png
 categories:
   - Spatial Analysis
   - Hackathon
