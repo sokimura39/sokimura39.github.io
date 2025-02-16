@@ -74,35 +74,35 @@
     "href": "projects/cycle_shortcut_map.html",
     "title": "Cycle-Shortcut: Beat the Winding Rails",
     "section": "",
-    "text": "Cycle-Shortcut: Beat the Winding Rails is a web application that visualises the possibility of a combined use of cycling and rail transport. In particular, this map explores the notion of the mid-one-mile - connecting between stations midway between transferring stations.\nClick above link for best experience.\nThis was created as a submission for the Open Data Challenge for Public Transport 2024, a competition for open-data based applications."
+    "text": "Cycle-Shortcut: Beat the Winding Rails is a web application that visualises the possibility of a combined use of cycling and rail transport. In particular, this map explores the notion of the mid-one-mile - connecting between stations midway between transferring stations.\nClick above link for best experience.\nGrand Award (best overall) winner of the Open Data Challenge for Public Transport 2024, a competition for open-data based applications out of 500 entries."
   },
   {
     "objectID": "projects/cycle_shortcut_map.html#overview",
     "href": "projects/cycle_shortcut_map.html#overview",
     "title": "Cycle-Shortcut: Beat the Winding Rails",
     "section": "",
-    "text": "Cycle-Shortcut: Beat the Winding Rails is a web application that visualises the possibility of a combined use of cycling and rail transport. In particular, this map explores the notion of the mid-one-mile - connecting between stations midway between transferring stations.\nClick above link for best experience.\nThis was created as a submission for the Open Data Challenge for Public Transport 2024, a competition for open-data based applications."
+    "text": "Cycle-Shortcut: Beat the Winding Rails is a web application that visualises the possibility of a combined use of cycling and rail transport. In particular, this map explores the notion of the mid-one-mile - connecting between stations midway between transferring stations.\nClick above link for best experience.\nGrand Award (best overall) winner of the Open Data Challenge for Public Transport 2024, a competition for open-data based applications out of 500 entries."
   },
   {
     "objectID": "projects/cycle_shortcut_map.html#components",
     "href": "projects/cycle_shortcut_map.html#components",
     "title": "Cycle-Shortcut: Beat the Winding Rails",
     "section": "Components",
-    "text": "Components\nThere are two major components in the web-app, with different users in mind.\n\nJourney Planner / Isopleth\nOur first component is the Journey Planner / Isopleth that allows travel between stations if that is an acceptable choice.\nThe main target is the users of the public transport network, suggesting a new route that incorporates a short cycle ride in between stations, contributing to health, sustainable travel, and all the other benefits cycling has to offer.\n\n\nCycle Potential Map\nThe second component is the Cycle Potential Map which shows the routes that have high potential to be used as a cycling corridor.\nThis map provides a city-wide scale potential, aimed at planners and cycle hire scheme operators that aim to promote cycling (or the use of their services) within the Tokyo Metropolitan area.\nThis was calculated using OD-centrality, or a usage-weighted version of betweenness centrality."
+    "text": "Components\nThere are two major components in the web-app, with different users in mind.\n\nJourney Planner / Isochrome\nOur first component is the Journey Planner / Isochrome that allows travel between stations if that is an acceptable choice.\nThe main target is the users of the public transport network, suggesting a new route that incorporates a short cycle ride in between stations, contributing to health, sustainable travel, and all the other benefits cycling has to offer.\n\n\nCycle Potential Map\nThe second component is the Cycle Potential Map which shows the routes that have high potential to be used as a cycling corridor.\nThis map provides a city-wide scale potential, aimed at planners and cycle hire scheme operators that aim to promote cycling (or the use of their services) within the Tokyo Metropolitan area.\nThis was calculated using OD-centrality, or a usage-weighted version of betweenness centrality."
   },
   {
     "objectID": "projects/cycle_shortcut_map.html#collaborators",
     "href": "projects/cycle_shortcut_map.html#collaborators",
     "title": "Cycle-Shortcut: Beat the Winding Rails",
     "section": "Collaborators",
-    "text": "Collaborators\nCycle-Shortcut: Beat the Winding Rails was a collaborative project as part of the Nishikata Tokotoko Explorers, a team formed of 4 alumni from the Department of Urban Engineering, the University of Tokyo.\nI was the main developer creating the maps using MapLibre."
+    "text": "Collaborators\nCycle-Shortcut: Beat the Winding Rails was a collaborative project as part of the Nishikata Tokotoko Explorers, a team formed of 4 alumni from the Department of Urban Engineering, the University of Tokyo.\nI was the main developer creating the maps using MapLibre, and conceptualising the cycle potential map."
   },
   {
     "objectID": "projects/cycle_shortcut_map.html#links",
     "href": "projects/cycle_shortcut_map.html#links",
     "title": "Cycle-Shortcut: Beat the Winding Rails",
     "section": "Links",
-    "text": "Links\nAll material in Japanese, hoping to make an English version in the near future.\n\nCycle-Shortcut: Beat the Winding Rails\nDeveloper Blog"
+    "text": "Links\nAll material in Japanese, hoping to make an English version in the near future.\n\nCycle-Shortcut: Beat the Winding Rails\nDeveloper Blog\nResults for the Open Data Challenge for Public Transport 2024"
   },
   {
     "objectID": "projects/cumulative_eia.html",
@@ -228,7 +228,7 @@
     "href": "about.html#awards",
     "title": "Soki Kimura",
     "section": "Awards",
-    "text": "Awards\n\nFirst Prize, CASA Data Hackathon 2024 as Team GeoJSVN [James Tan, Soki Kimura, Vincent Bedu and Nikhil Desai] - analysis of spatial optimisation of fire service operations\nFirst Prize, Student Category, GIS Certification Institute Map Contest - Map of “the Thirty-six View of Mount Fuji” visualising the locations of Hokusai’s artwork using Blender / on display in Esri’s Virtual Map Gallery"
+    "text": "Awards\n\nGrand Award, Open Data Challenge for Public Transport 2024 as Team Nishikata Tokotoko Explorers - Cycle Shortcut - Beat the Winding Rails exploring the potential of rail-cycle combined trips in the Greater Tokyo area using public transport related open data / Results available (in Japanese) at the organiser’s website\nFirst Prize, CASA Data Hackathon 2024 as Team GeoJSVN [James Tan, Soki Kimura, Vincent Bedu and Nikhil Desai] - analysis of spatial optimisation of fire service operations\nFirst Prize, Student Category, GIS Certification Institute Map Contest - Map of “the Thirty-six View of Mount Fuji” visualising the locations of Hokusai’s artwork using Blender / on display in Esri’s Virtual Map Gallery"
   },
   {
     "objectID": "index.html",
