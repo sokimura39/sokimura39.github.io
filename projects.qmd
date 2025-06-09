@@ -11,7 +11,7 @@ listing:
     filter-ui: true
 ---
 
-Here, you can find my projects that I have worked on recently and in the past.
+Here are some of my projects that I have worked on - spanning from architecture and design-oriented projects to ones heavy on spatial analytics.
 
 :::{#projects}
 :::

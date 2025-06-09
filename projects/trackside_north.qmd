@@ -1,0 +1,48 @@
+---
+title: "Trackside North"
+description: "Assessing the effectiveness of a high-speed railway network in North England. Third prize winner at the University of Sheffield's Data & Design Hackathon 2025."
+date: 2025-04-11
+categories:
+  - Spatial Analysis
+  - Hackathon
+---
+
+![Proposed overall map of the high speed network from Liverpool to Hull via Manchester, Leeds, and Sheffield.](img/trackside_north/overall_map.png)
+
+## Overview
+
+The [Data & Design Hackathon](https://sites.google.com/sheffield.ac.uk/hackathon/) was held at the University of Sheffield that brings together students from diverse backgrounds to solve real-world problems using data-driven approaches and creative design thinking. Our project focused on evaluating the potential impact of a proposed high-speed railway network in North England, combining spatial analysis and deep-dive into the individual context of potential station sites to assess the impact of the large infrastructure project.
+
+## The Data: Spatial Analysis
+
+The current transport network in the North of England was analysed using a range of spatial datasets, including public transport accessibility, share of travel, and travel time. Various indeces show the inadequate public transport provision in the North. We have predicted the growth of public transport usage when times become more competent.
+
+![Travel time difference between public transport and private cars. Green areas show the areas which are faster by public transport to destination - the north has fewer areas that public transport is competent in terms of time.](img/trackside_north/travel_time_diff.png)
+
+## The Design: Site Selection
+
+We have identified potential sites the high-speed stations could be placed through a closer examination of the urban fabric. Utilization of brownfield sites have been our strategy whilst considering accessibility with existing intra-city public transport modes.
+
+::: {layout-ncol=2}
+
+![Potential station site in Liverpool at Edge Hill.](img/trackside_north/Liverpool_5000.png)
+
+![Leeds Docks identified as a regeneration site for a high-speed station.](img/trackside_north/Leeds_5000.png)
+
+:::
+
+## Collaborators
+
+This project is the work of team **Trackside North** at the University of Sheffield. Team members:
+
+- Richard Beaumont
+- Abduweli Mijit
+- Soki Kimura
+- Tobi Olsogba
+- Nada Katamish
+
+Contribution from Will Deakin from Network Rail.
+
+
+
+

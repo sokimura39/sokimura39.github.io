@@ -2,6 +2,8 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/urban_cc.html",
+      "/projects/trackside_north.html",
       "/projects/cycle_shortcut_map.html",
       "/projects/GISCI_map_contest_2024.html",
       "/projects/abm_shading.html",
