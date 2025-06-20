@@ -37,8 +37,9 @@ Soki Kimura is an urban planner / designer with experience in the public sector 
 
 ## Skills
 
-- Spatial Data Science: R / Python / SQL / QGIS
-- Graphic Design: Adobe CC [Illustrator, InDesign] / Blender
+- Spatial Analysis: R / Python / SQL / QGIS / JavaScript
+- Urban Design / Architecture: Rhino [Grasshopper] /  Blender
+- Graphic Design: Adobe CC [Illustrator, InDesign, Photoshop, After Effects, Premier Pro]
 - Languages: Japanese [Native] / English [Fluent]
 
 ## Qualifications
@@ -64,7 +65,7 @@ Sheffield, UK | 2024 -
 
 MA Urban Design | School of Architecture and Landscape
 
-Studying a studio-based master's degree in urban design.
+Studying a studio-based master's degree in urban design, with emphasis on citizen participation and just transitions.
 
 ### University College London
 
@@ -86,3 +87,4 @@ Bachelor's degree in urban planning and design. Member of the campus festival co
 - **Grand Award, Open Data Challenge for Public Transport 2024** as Team Nishikata Tokotoko Explorers - [*Cycle Shortcut - Beat the Winding Rails*](projects/cycle_shortcut_map.qmd) exploring the potential of rail-cycle combined trips in the Greater Tokyo area using public transport related open data / Results available (in Japanese) at the [organiser's website](https://challenge2024.odpt.org/report.html)
 - **First Prize, CASA Data Hackathon 2024** as Team GeoJSVN \[James Tan, Soki Kimura, Vincent Bedu and Nikhil Desai\] - analysis of spatial optimisation of fire service operations
 - **First Prize, Student Category, GIS Certification Institute Map Contest** - [*Map of "the Thirty-six View of Mount Fuji"*](projects/GISCI_map_contest_2024.qmd) visualising the locations of Hokusai's artwork using Blender / on display in [Esri's Virtual Map Gallery](https://www.esri.com/en-us/about/events/uc/agenda/virtual-map-gallery#/submission-detail/35121)
+- **Third Prize, University of Sheffield Data & Design Hackathon 2025** as Team [Trackside North](projects/trackside_north.qmd) - exploring the potential of a High Speed Rail Network in the North of England, in collaboration with Network Rail

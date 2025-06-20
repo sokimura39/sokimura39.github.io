@@ -1,0 +1,35 @@
+---
+title: "Catalysing an Energy-Driven Transformation"
+description: "Exploring a Just Energy Transition of Northeast Sheffield in Collaboration with Community Partners"
+date: 2025-04-03
+categories:
+  - Architecture
+  - Research
+  - Planning
+featured: true
+---
+
+![Manifesto for the Catalyst Project - aiming to reclaim the public space to people.](img/just_energy/key_image_final.png)
+
+## Overview
+
+MA Urban Design's Urban Design Project explored the potential of just energy transitions to propel change in the post-industrial areas of Sheffield: the Wicker, Burngreave, and Attercliffe areas located to the northeast of Sheffield City Centre. 
+
+This was a comprehensive analysis from quantitative and qualitative standpoints, including interviews, GIS analysis, and transect urbanism strategies.
+
+## Gallery
+
+![Conversation with stakeholders to share opinions about the transition of Burngreave and the Wicker.](img/just_energy/participation.jpg)
+
+![Analysis of land use in a 2.5D format](img/just_energy/land_use.jpg)
+
+![Economic analysis of the interventions, separated by phase.](img/just_energy/iceberg.png)
+
+## Collaborators
+
+Created as part of the Just Energy Studio, MA Urban Design, The University of Sheffield. Team Members:
+
+- Nan Li
+- Shuling Liu
+- Varshitha Meesala
+- Yinuo Wen

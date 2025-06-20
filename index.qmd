@@ -29,7 +29,7 @@ about:
 
 I am a planner passionate about urban data and designing places.
 
-Click below to explore my projects and about myself.
+Click below to explore my projects.
 
 [Resume](about.qmd){.btn .btn-outline-dark .btn role="button"}
 [Projects](projects.qmd){.btn .btn-outline-dark .btn role="button"}

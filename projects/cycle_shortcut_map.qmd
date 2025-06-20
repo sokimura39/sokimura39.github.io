@@ -7,6 +7,7 @@ categories:
   - Web Application
   - Hackathon
   - Spatial Analysis
+  - Research
 ---
 
 ## Overview
@@ -52,4 +53,11 @@ All material in Japanese, hoping to make an English version in the near future.
 - [*Cycle-Shortcut: Beat the Winding Rails*](https://nishikata-tokotoko.github.io/cycle-shortcut-map/)
 - [Developer Blog](https://note.com/nishitoko)
 - [Results for the Open Data Challenge for Public Transport 2024](https://challenge2024.odpt.org/report.html)
+
+## Publication
+
+Japanese report available from the following:
+
+木村颯希, 應武遥香, 高山広太郎, 中井諒介 (2025), 「鉄道・シェアサイクル連携トリップの可能性を提示するアプリケーション構築とその考察」, (「都市計画報告集」, Vol. 24，No. 1，pp. 19–23), https://doi.org/10.11361/reportscpij.24.1_19
+
 

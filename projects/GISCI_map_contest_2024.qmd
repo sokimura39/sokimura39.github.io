@@ -5,6 +5,7 @@ date: 2024-06-12
 image: img/fuji36_map.png
 categories:
   - Graphic Design
+featured: true
 ---
 
 [![*Map of the "Thirty-six Views of Mount Fuji"*, a first-prize winner for the GISCI Map Contest 2024. Click to download original PDF.](img/fuji36_map.png)
